@@ -1,0 +1,2380 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e3eff2;
+      }
+
+      .cls-2 {
+        isolation: isolate;
+      }
+
+      .cls-3 {
+        fill: #6b78a3;
+      }
+
+      .cls-4 {
+        fill: #373e54;
+      }
+
+      .cls-5 {
+        fill: #505a7a;
+      }
+
+      .cls-6 {
+        fill: #433953;
+      }
+
+      .cls-7 {
+        fill: #fff9f0;
+      }
+
+      .cls-8 {
+        fill: #5f5aad;
+      }
+
+      .cls-9 {
+        fill: #a0aee2;
+      }
+
+      .cls-10 {
+        fill: #847ed3;
+      }
+
+      .cls-11 {
+        fill: #9aaddc;
+      }
+
+      .cls-12 {
+        fill: #bddd75;
+      }
+
+      .cls-13 {
+        fill: #8fa15f;
+      }
+
+      .cls-14 {
+        fill: #acc96b;
+      }
+
+      .cls-15 {
+        fill: #c3e8f2;
+      }
+
+      .cls-16 {
+        fill: #eee1a6;
+      }
+
+      .cls-17 {
+        fill: #bb9474;
+      }
+
+      .cls-18 {
+        fill: #c6e87b;
+      }
+
+      .cls-19 {
+        fill: #ace3f2;
+      }
+
+      .cls-20 {
+        fill: #d6f7ff;
+      }
+
+      .cls-21 {
+        fill: #a8ce76;
+      }
+
+      .cls-22 {
+        fill: #dedbe8;
+      }
+
+      .cls-23 {
+        fill: #bba2bc;
+      }
+
+      .cls-24 {
+        fill: #eaf7f8;
+      }
+
+      .cls-25 {
+        fill: #6f73b0;
+      }
+
+      .cls-26 {
+        fill: #716baf;
+      }
+
+      .cls-27 {
+        fill: #bcdcf5;
+      }
+
+      .cls-28 {
+        fill: #865c85;
+      }
+
+      .cls-29 {
+        fill: #433760;
+      }
+
+      .cls-30 {
+        fill: #e8e8e8;
+      }
+
+      .cls-31 {
+        fill: #f8f8f8;
+      }
+
+      .cls-32 {
+        fill: #84a33f;
+      }
+
+      .cls-33 {
+        fill: #e15367;
+      }
+
+      .cls-34 {
+        fill: #c73247;
+      }
+
+      .cls-35 {
+        fill: #f55a70;
+      }
+
+      .cls-36 {
+        fill: #fff;
+      }
+
+      .cls-37 {
+        fill: #f0f1f2;
+      }
+
+      .cls-38 {
+        fill: #ededed;
+      }
+
+      .cls-39 {
+        fill: #988499;
+      }
+
+      .cls-40 {
+        fill: #adbcf5;
+      }
+    </style>
+  </defs>
+  <title>69275-OCNWLO-469</title>
+  <g id="BACKGROUND">
+    <rect id="_Rectangle_" data-name="&lt;Rectangle&gt;" class="cls-1" width="800" height="800"/>
+  </g>
+  <g id="OBJECTS">
+    <g id="_Group_" data-name="&lt;Group&gt;">
+      <g id="ground">
+        <g id="_Group_2" data-name="&lt;Group&gt;">
+          <g id="_Group_3" data-name="&lt;Group&gt;" class="cls-2">
+            <path id="_Path_" data-name="&lt;Path&gt;" class="cls-3" d="M746.828,473.776,354.133,701.741c-8.676,5.042-22.778,5.042-31.511,0L53.339,546.27c-4.394-2.537-6.589-5.866-6.579-9.19L46.7,559.5c-.009,3.324,2.185,6.653,6.579,9.19L322.559,724.164c8.732,5.042,22.835,5.042,31.511,0L746.764,496.2c4.31-2.5,6.467-5.781,6.477-9.062l.064-22.424C753.3,468,751.137,471.272,746.828,473.776Z"/>
+            <path id="_Path_2" data-name="&lt;Path&gt;" class="cls-4" d="M746.828,468.276,354.133,696.241c-8.676,5.042-22.778,5.042-31.511,0L53.339,540.77c-4.394-2.537-6.589-5.866-6.579-9.19L46.7,554c-.009,3.324,2.185,6.653,6.579,9.19L322.559,718.664c8.732,5.042,22.835,5.042,31.511,0L746.764,490.7c4.31-2.5,6.467-5.781,6.477-9.062l.064-22.424C753.3,462.5,751.137,465.772,746.828,468.276Z"/>
+            <g id="_Group_4" data-name="&lt;Group&gt;">
+              <path id="_Path_3" data-name="&lt;Path&gt;" class="cls-5" d="M746.725,450.024c8.732,5.042,8.778,13.211.1,18.252L354.133,696.241c-8.676,5.042-22.778,5.042-31.511,0L53.339,540.77c-8.732-5.042-8.778-13.211-.1-18.252L445.931,294.553c8.676-5.042,22.778-5.042,31.511,0Z"/>
+            </g>
+          </g>
+        </g>
+        <g id="_Group_5" data-name="&lt;Group&gt;">
+          <g id="_Group_6" data-name="&lt;Group&gt;">
+            <path id="_Path_4" data-name="&lt;Path&gt;" class="cls-6" d="M719.018,462.684A11.9,11.9,0,0,1,713.835,468L383.449,659.864c-7.713,4.478-20.246,4.478-28,0L116.224,521.74a12,12,0,0,1-5.271-5.391c-1.6-3.763.132-7.889,5.183-10.827L446.522,313.666c7.713-4.478,20.235-4.478,27.992,0L713.747,451.791C718.864,454.739,720.624,458.91,719.018,462.684Z"/>
+          </g>
+          <g id="_Group_7" data-name="&lt;Group&gt;">
+            <path id="_Path_5" data-name="&lt;Path&gt;" class="cls-7" d="M719.021,462.689a11.969,11.969,0,0,1-5.19,5.31l-58.74,34.11-271.64,157.76c-7.72,4.48-20.25,4.48-28.01,0l-95.99-55.43-12.24-7.07-130.99-75.63a12.021,12.021,0,0,1-5.27-5.39,11.811,11.811,0,0,1,5.18-5.32l154.86-89.93,45.37-26.35,130.16-75.58c7.71-4.48,20.23-4.48,27.99,0l146.3,84.46,92.94,53.66A12.037,12.037,0,0,1,719.021,462.689Z"/>
+          </g>
+        </g>
+        <g id="_Group_8" data-name="&lt;Group&gt;">
+          <g id="_Group_9" data-name="&lt;Group&gt;">
+            <g id="_Group_10" data-name="&lt;Group&gt;">
+              <g id="_Group_11" data-name="&lt;Group&gt;" class="cls-2">
+                <g id="_Group_12" data-name="&lt;Group&gt;">
+                  <polygon id="_Path_6" data-name="&lt;Path&gt;" class="cls-8" points="164.938 615.806 164.921 621.78 204.062 644.378 204.079 638.405 164.938 615.806"/>
+                </g>
+              </g>
+            </g>
+          </g>
+          <polygon id="_Path_7" data-name="&lt;Path&gt;" class="cls-9" points="164.921 621.78 170.079 618.802 164.938 615.806 164.921 621.78"/>
+        </g>
+        <g id="_Group_13" data-name="&lt;Group&gt;">
+          <g id="_Group_14" data-name="&lt;Group&gt;">
+            <g id="_Group_15" data-name="&lt;Group&gt;">
+              <g id="_Group_16" data-name="&lt;Group&gt;" class="cls-2">
+                <g id="_Group_17" data-name="&lt;Group&gt;">
+                  <polygon id="_Path_8" data-name="&lt;Path&gt;" class="cls-8" points="575.593 576.544 575.61 582.517 536.469 605.116 536.452 599.142 575.593 576.544"/>
+                </g>
+              </g>
+            </g>
+          </g>
+          <polygon id="_Path_9" data-name="&lt;Path&gt;" class="cls-9" points="575.61 582.517 570.452 579.539 575.593 576.544 575.61 582.517"/>
+        </g>
+        <g id="_Group_18" data-name="&lt;Group&gt;">
+          <g id="_Group_19" data-name="&lt;Group&gt;">
+            <g id="_Group_20" data-name="&lt;Group&gt;">
+              <g id="_Group_21" data-name="&lt;Group&gt;" class="cls-2">
+                <g id="_Group_22" data-name="&lt;Group&gt;">
+                  <polygon id="_Path_10" data-name="&lt;Path&gt;" class="cls-8" points="524.91 605.806 524.927 611.78 505.356 623.079 505.339 617.105 524.91 605.806"/>
+                </g>
+              </g>
+            </g>
+          </g>
+          <polygon id="_Path_11" data-name="&lt;Path&gt;" class="cls-9" points="524.927 611.78 519.769 608.801 524.91 605.806 524.927 611.78"/>
+        </g>
+        <g id="_Group_23" data-name="&lt;Group&gt;">
+          <path id="_Path_12" data-name="&lt;Path&gt;" class="cls-10" d="M214.3,594.757c5.682,3.281,5.712,8.6.067,11.877s-14.822,3.281-20.5,0-5.712-8.6-.067-11.877S208.621,591.48,214.3,594.757Z"/>
+        </g>
+        <g id="_Group_24" data-name="&lt;Group&gt;">
+          <path id="_Path_13" data-name="&lt;Path&gt;" class="cls-11" d="M600.813,371.628c2,1.152,2.006,3.018.024,4.17a7.932,7.932,0,0,1-7.2,0c-1.993-1.151-2.006-3.018-.024-4.17A7.935,7.935,0,0,1,600.813,371.628Z"/>
+        </g>
+        <g id="_Group_25" data-name="&lt;Group&gt;">
+          <path id="_Path_14" data-name="&lt;Path&gt;" class="cls-9" d="M209.824,597.357c3.194,1.844,3.211,4.833.038,6.677a12.7,12.7,0,0,1-11.527,0c-3.191-1.842-3.211-4.833-.038-6.677A12.706,12.706,0,0,1,209.824,597.357Z"/>
+        </g>
+        <g id="_Group_26" data-name="&lt;Group&gt;">
+          <polygon id="_Path_15" data-name="&lt;Path&gt;" class="cls-12" points="542.888 370.427 462.589 417.092 381.777 370.436 462.076 323.771 542.888 370.427"/>
+        </g>
+        <g id="_Group_27" data-name="&lt;Group&gt;">
+          <polygon id="_Path_16" data-name="&lt;Path&gt;" class="cls-13" points="523.11 370.428 462.526 405.636 401.555 370.435 462.139 335.227 523.11 370.428"/>
+        </g>
+        <g id="_Group_28" data-name="&lt;Group&gt;">
+          <polygon id="_Path_17" data-name="&lt;Path&gt;" class="cls-12" points="704.343 463.644 624.044 510.308 479.201 426.683 559.5 380.018 704.343 463.644"/>
+        </g>
+        <g id="_Group_29" data-name="&lt;Group&gt;">
+          <polygon id="_Path_18" data-name="&lt;Path&gt;" class="cls-12" points="449.476 424.359 380.919 464.244 300.107 417.588 368.664 377.703 449.476 424.359"/>
+        </g>
+        <g id="_Group_30" data-name="&lt;Group&gt;">
+          <polygon id="_Path_19" data-name="&lt;Path&gt;" class="cls-12" points="271.256 527.254 202.7 567.139 121.888 520.483 190.445 480.597 271.256 527.254"/>
+        </g>
+        <g id="_Group_31" data-name="&lt;Group&gt;">
+          <polygon id="_Path_20" data-name="&lt;Path&gt;" class="cls-12" points="339.882 566.875 271.325 606.76 220.679 577.52 289.235 537.634 339.882 566.875"/>
+        </g>
+        <g id="_Group_32" data-name="&lt;Group&gt;">
+          <polygon id="_Path_21" data-name="&lt;Path&gt;" class="cls-12" points="611.135 517.693 542.579 557.578 461.767 510.922 530.324 471.037 611.135 517.693"/>
+        </g>
+        <g id="_Group_33" data-name="&lt;Group&gt;">
+          <polygon id="_Path_22" data-name="&lt;Path&gt;" class="cls-12" points="513.792 461.492 445.235 501.377 398.324 474.293 466.88 434.408 513.792 461.492"/>
+        </g>
+        <g id="_Group_34" data-name="&lt;Group&gt;">
+          <polygon id="_Path_23" data-name="&lt;Path&gt;" class="cls-12" points="532.673 564.39 452.319 611.074 308.126 527.823 388.48 481.14 532.673 564.39"/>
+        </g>
+        <polygon id="_Path_24" data-name="&lt;Path&gt;" class="cls-12" points="416.52 611.122 370.385 584.486 350.285 572.881 281.729 612.767 332.375 642.007 365.593 622.669 381.32 631.749 416.52 611.122"/>
+        <g id="_Group_35" data-name="&lt;Group&gt;">
+          <polygon id="_Path_25" data-name="&lt;Path&gt;" class="cls-14" points="238.321 508.755 191.01 536.249 143.39 508.755 190.701 481.261 238.321 508.755"/>
+        </g>
+        <g id="_Group_36" data-name="&lt;Group&gt;">
+          <path id="_Path_26" data-name="&lt;Path&gt;" class="cls-15" d="M235.393,529.713c6.692,3.863,6.727,10.124.079,13.988s-17.457,3.863-24.148,0-6.719-10.124-.075-13.985S228.706,525.851,235.393,529.713Z"/>
+        </g>
+      </g>
+      <g id="ground-2" data-name="ground">
+        <g id="_Group_37" data-name="&lt;Group&gt;">
+          <g id="_Group_38" data-name="&lt;Group&gt;" class="cls-2">
+            <g id="_Group_39" data-name="&lt;Group&gt;">
+              <polygon id="_Path_27" data-name="&lt;Path&gt;" class="cls-16" points="611.146 509.511 611.135 517.693 565.126 544.431 565.136 536.249 611.146 509.511"/>
+            </g>
+            <g id="_Group_40" data-name="&lt;Group&gt;">
+              <polygon id="_Path_28" data-name="&lt;Path&gt;" class="cls-17" points="565.136 536.249 565.126 544.431 518.823 517.698 518.833 509.516 565.136 536.249"/>
+            </g>
+            <g id="_Group_41" data-name="&lt;Group&gt;">
+              <polygon id="_Path_29" data-name="&lt;Path&gt;" class="cls-18" points="611.146 509.511 565.136 536.249 518.833 509.516 564.843 482.778 611.146 509.511"/>
+            </g>
+          </g>
+        </g>
+        <g id="_Group_42" data-name="&lt;Group&gt;">
+          <path id="_Path_30" data-name="&lt;Path&gt;" class="cls-19" d="M580.263,501.4c7.757,4.478,7.8,11.736.091,16.214s-20.235,4.479-27.992,0-7.789-11.736-.087-16.211S572.511,496.928,580.263,501.4Z"/>
+        </g>
+        <g id="_Group_43" data-name="&lt;Group&gt;">
+          <path id="_Path_31" data-name="&lt;Path&gt;" class="cls-20" d="M577.657,502.918c6.307,3.642,6.341,9.543.074,13.185s-16.454,3.642-22.762,0-6.333-9.543-.071-13.182S571.354,499.279,577.657,502.918Z"/>
+        </g>
+      </g>
+      <g id="tree">
+        <polygon id="_Path_32" data-name="&lt;Path&gt;" class="cls-21" points="427.957 404.628 427.957 432.252 437.789 426.589 427.957 404.628"/>
+        <polygon id="_Path_33" data-name="&lt;Path&gt;" class="cls-13" points="427.957 404.628 427.957 432.252 418.126 426.585 427.957 404.628"/>
+      </g>
+      <g id="house">
+        <g id="_Group_44" data-name="&lt;Group&gt;">
+          <g id="_Group_45" data-name="&lt;Group&gt;">
+            <g id="_Group_46" data-name="&lt;Group&gt;" class="cls-2">
+              <g id="_Group_47" data-name="&lt;Group&gt;">
+                <polygon id="_Path_34" data-name="&lt;Path&gt;" class="cls-22" points="561.014 457.118 561.065 467.1 603.67 491.86 603.619 481.877 561.014 457.118"/>
+              </g>
+              <g id="_Group_48" data-name="&lt;Group&gt;">
+                <polygon id="_Path_35" data-name="&lt;Path&gt;" class="cls-23" points="603.619 481.877 603.67 491.86 633.438 474.673 633.387 464.691 603.619 481.877"/>
+              </g>
+              <g id="_Group_49" data-name="&lt;Group&gt;">
+                <polygon id="_Path_36" data-name="&lt;Path&gt;" class="cls-24" points="561.014 457.118 603.619 481.877 633.387 464.691 590.782 439.931 561.014 457.118"/>
+              </g>
+            </g>
+          </g>
+          <g id="_Group_50" data-name="&lt;Group&gt;">
+            <g id="_Group_51" data-name="&lt;Group&gt;" class="cls-2">
+              <g id="_Group_52" data-name="&lt;Group&gt;">
+                <polygon id="_Path_37" data-name="&lt;Path&gt;" class="cls-11" points="570.202 360.037 570.24 459.174 602.035 477.651 601.997 378.515 570.202 360.037"/>
+              </g>
+              <g id="_Group_53" data-name="&lt;Group&gt;">
+                <polygon id="_Path_38" data-name="&lt;Path&gt;" class="cls-25" points="601.997 378.515 602.035 477.651 624.25 464.825 624.212 365.689 601.997 378.515"/>
+              </g>
+              <g id="_Group_54" data-name="&lt;Group&gt;">
+                <polygon id="_Path_39" data-name="&lt;Path&gt;" class="cls-24" points="570.202 360.037 601.997 378.515 624.212 365.689 592.417 347.212 570.202 360.037"/>
+              </g>
+            </g>
+          </g>
+          <g id="_Group_55" data-name="&lt;Group&gt;">
+            <g id="_Group_56" data-name="&lt;Group&gt;" class="cls-2">
+              <g id="_Group_57" data-name="&lt;Group&gt;">
+                <polygon id="_Path_40" data-name="&lt;Path&gt;" class="cls-22" points="563.081 347.362 563.129 356.774 603.302 380.12 603.254 370.708 563.081 347.362"/>
+              </g>
+              <g id="_Group_58" data-name="&lt;Group&gt;">
+                <polygon id="_Path_41" data-name="&lt;Path&gt;" class="cls-23" points="603.254 370.708 603.302 380.12 631.371 363.915 631.323 354.502 603.254 370.708"/>
+              </g>
+              <g id="_Group_59" data-name="&lt;Group&gt;">
+                <polygon id="_Path_42" data-name="&lt;Path&gt;" class="cls-24" points="563.081 347.362 603.254 370.708 631.323 354.502 591.149 331.156 563.081 347.362"/>
+              </g>
+            </g>
+          </g>
+          <g id="_Group_60" data-name="&lt;Group&gt;">
+            <g id="_Group_61" data-name="&lt;Group&gt;" class="cls-2">
+              <g id="_Group_62" data-name="&lt;Group&gt;">
+                <polygon id="_Path_43" data-name="&lt;Path&gt;" class="cls-11" points="570.186 340.616 570.224 348.07 602.038 366.559 602 359.105 570.186 340.616"/>
+              </g>
+              <g id="_Group_63" data-name="&lt;Group&gt;">
+                <polygon id="_Path_44" data-name="&lt;Path&gt;" class="cls-25" points="602 359.105 602.038 366.559 624.266 353.725 624.228 346.271 602 359.105"/>
+              </g>
+              <g id="_Group_64" data-name="&lt;Group&gt;">
+                <polygon id="_Path_45" data-name="&lt;Path&gt;" class="cls-24" points="570.186 340.616 602 359.105 624.228 346.271 592.414 327.783 570.186 340.616"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="_Group_65" data-name="&lt;Group&gt;">
+          <g id="_Group_66" data-name="&lt;Group&gt;">
+            <g id="_Group_67" data-name="&lt;Group&gt;" class="cls-2">
+              <g id="_Group_68" data-name="&lt;Group&gt;">
+                <polygon id="_Path_46" data-name="&lt;Path&gt;" class="cls-11" points="585.651 337.536 585.664 343.912 597.171 350.599 597.157 344.223 585.651 337.536"/>
+              </g>
+              <g id="_Group_69" data-name="&lt;Group&gt;">
+                <polygon id="_Path_47" data-name="&lt;Path&gt;" class="cls-26" points="597.157 344.223 597.171 350.599 608.753 343.912 608.739 337.536 597.157 344.223"/>
+              </g>
+              <g id="_Group_70" data-name="&lt;Group&gt;">
+                <polygon id="_Path_48" data-name="&lt;Path&gt;" class="cls-27" points="585.651 337.536 597.157 344.223 608.739 337.536 597.232 330.85 585.651 337.536"/>
+              </g>
+            </g>
+          </g>
+          <g id="_Group_71" data-name="&lt;Group&gt;">
+            <g id="_Group_72" data-name="&lt;Group&gt;" class="cls-2">
+              <g id="_Group_73" data-name="&lt;Group&gt;">
+                <polygon id="_Path_49" data-name="&lt;Path&gt;" class="cls-28" points="594.334 301.477 594.338 337.736 597.194 339.396 597.191 303.137 594.334 301.477"/>
+              </g>
+              <g id="_Group_74" data-name="&lt;Group&gt;">
+                <polygon id="_Path_50" data-name="&lt;Path&gt;" class="cls-29" points="597.191 303.137 597.194 339.396 600.069 337.736 600.066 301.477 597.191 303.137"/>
+              </g>
+              <g id="_Group_75" data-name="&lt;Group&gt;">
+                <polygon id="_Path_51" data-name="&lt;Path&gt;" class="cls-28" points="594.334 301.477 597.191 303.137 600.066 301.477 597.209 299.817 594.334 301.477"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="house-2" data-name="house">
+        <g id="_Group_76" data-name="&lt;Group&gt;">
+          <g id="_Group_77" data-name="&lt;Group&gt;" class="cls-2">
+            <g id="_Group_78" data-name="&lt;Group&gt;">
+              <polygon id="_Path_52" data-name="&lt;Path&gt;" class="cls-22" points="682.555 389.16 682.53 466.721 661.75 478.797 661.775 401.236 682.555 389.16"/>
+            </g>
+            <g id="_Group_79" data-name="&lt;Group&gt;">
+              <polygon id="_Path_53" data-name="&lt;Path&gt;" class="cls-23" points="661.775 401.236 661.75 478.797 640.835 466.721 640.859 389.16 661.775 401.236"/>
+            </g>
+            <g id="_Group_80" data-name="&lt;Group&gt;">
+              <polygon id="_Path_54" data-name="&lt;Path&gt;" class="cls-24" points="682.555 389.16 661.775 401.236 640.859 389.16 661.639 377.085 682.555 389.16"/>
+            </g>
+          </g>
+        </g>
+        <g id="_Group_81" data-name="&lt;Group&gt;">
+          <g id="_Group_82" data-name="&lt;Group&gt;" class="cls-2">
+            <g id="_Group_83" data-name="&lt;Group&gt;">
+              <polygon id="_Path_55" data-name="&lt;Path&gt;" class="cls-22" points="686.541 396.401 686.516 469.016 675.87 475.242 675.895 402.626 686.541 396.401"/>
+            </g>
+            <g id="_Group_84" data-name="&lt;Group&gt;">
+              <polygon id="_Path_56" data-name="&lt;Path&gt;" class="cls-23" points="675.895 402.626 675.87 475.242 671.907 472.953 671.932 400.338 675.895 402.626"/>
+            </g>
+            <g id="_Group_85" data-name="&lt;Group&gt;">
+              <polygon id="_Path_57" data-name="&lt;Path&gt;" class="cls-24" points="686.541 396.401 675.895 402.626 671.932 400.338 682.578 394.113 686.541 396.401"/>
+            </g>
+          </g>
+        </g>
+        <g id="_Group_86" data-name="&lt;Group&gt;">
+          <g id="_Group_87" data-name="&lt;Group&gt;" class="cls-2">
+            <g id="_Group_88" data-name="&lt;Group&gt;">
+              <polygon id="_Path_58" data-name="&lt;Path&gt;" class="cls-22" points="678.178 379.165 678.15 388.885 661.828 398.37 661.856 388.65 678.178 379.165"/>
+            </g>
+            <g id="_Group_89" data-name="&lt;Group&gt;">
+              <polygon id="_Path_59" data-name="&lt;Path&gt;" class="cls-23" points="661.856 388.65 661.828 398.37 645.4 388.885 645.236 379.065 661.856 388.65"/>
+            </g>
+            <g id="_Group_90" data-name="&lt;Group&gt;">
+              <polygon id="_Path_60" data-name="&lt;Path&gt;" class="cls-24" points="678.178 379.165 661.856 388.65 645.428 379.165 661.749 369.68 678.178 379.165"/>
+            </g>
+          </g>
+        </g>
+        <g id="_Group_91" data-name="&lt;Group&gt;">
+          <g id="_Group_92" data-name="&lt;Group&gt;" class="cls-2">
+            <g id="_Group_93" data-name="&lt;Group&gt;">
+              <polygon id="_Path_61" data-name="&lt;Path&gt;" class="cls-22" points="674.47 371.173 674.448 378.704 661.801 386.054 661.822 378.523 674.47 371.173"/>
+            </g>
+            <g id="_Group_94" data-name="&lt;Group&gt;">
+              <polygon id="_Path_62" data-name="&lt;Path&gt;" class="cls-23" points="661.822 378.523 661.801 386.054 649.071 378.705 648.944 371.096 661.822 378.523"/>
+            </g>
+            <g id="_Group_95" data-name="&lt;Group&gt;">
+              <polygon id="_Path_63" data-name="&lt;Path&gt;" class="cls-24" points="674.47 371.173 661.822 378.523 649.093 371.173 661.74 363.824 674.47 371.173"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="tree-2" data-name="tree">
+        <polygon id="_Path_64" data-name="&lt;Path&gt;" class="cls-21" points="647.957 460.676 647.957 488.301 657.789 482.638 647.957 460.676"/>
+        <polygon id="_Path_65" data-name="&lt;Path&gt;" class="cls-13" points="647.957 460.676 647.957 488.301 638.126 482.634 647.957 460.676"/>
+      </g>
+      <g id="house-3" data-name="house">
+        <g id="_Group_96" data-name="&lt;Group&gt;">
+          <g id="_Group_97" data-name="&lt;Group&gt;" class="cls-2">
+            <g id="_Group_98" data-name="&lt;Group&gt;">
+              <polygon id="_Path_66" data-name="&lt;Path&gt;" class="cls-13" points="569.13 435.333 542.971 450.535 516.646 435.336 542.804 420.134 569.13 435.333"/>
+            </g>
+          </g>
+        </g>
+        <g id="_Group_99" data-name="&lt;Group&gt;">
+          <g id="_Group_100" data-name="&lt;Group&gt;" class="cls-2">
+            <g id="_Group_101" data-name="&lt;Group&gt;">
+              <polygon id="_Path_67" data-name="&lt;Path&gt;" class="cls-22" points="561.281 396.894 561.259 435.467 542.931 446.118 542.953 407.545 561.281 396.894"/>
+            </g>
+            <g id="_Group_102" data-name="&lt;Group&gt;">
+              <polygon id="_Path_68" data-name="&lt;Path&gt;" class="cls-23" points="542.953 407.545 542.931 446.118 524.483 435.467 524.505 396.894 542.953 407.545"/>
+            </g>
+            <g id="_Group_103" data-name="&lt;Group&gt;">
+              <polygon id="_Path_69" data-name="&lt;Path&gt;" class="cls-24" points="561.281 396.894 542.953 407.545 524.505 396.894 542.833 386.243 561.281 396.894"/>
+            </g>
+          </g>
+        </g>
+        <g id="_Group_104" data-name="&lt;Group&gt;">
+          <g id="_Group_105" data-name="&lt;Group&gt;" class="cls-2">
+            <g id="_Group_106" data-name="&lt;Group&gt;">
+              <polygon id="_Path_70" data-name="&lt;Path&gt;" class="cls-30" points="566.316 397.22 566.31 401.374 542.954 414.947 542.96 410.794 566.316 397.22"/>
+            </g>
+            <g id="_Group_107" data-name="&lt;Group&gt;">
+              <polygon id="_Path_71" data-name="&lt;Path&gt;" class="cls-23" points="542.96 410.794 542.954 414.947 519.449 401.376 519.454 397.223 542.96 410.794"/>
+            </g>
+            <g id="_Group_108" data-name="&lt;Group&gt;">
+              <polygon id="_Path_72" data-name="&lt;Path&gt;" class="cls-24" points="566.316 397.22 542.96 410.794 519.454 397.223 542.81 383.65 566.316 397.22"/>
+            </g>
+          </g>
+        </g>
+        <g id="_Group_109" data-name="&lt;Group&gt;">
+          <g id="_Group_110" data-name="&lt;Group&gt;">
+            <g id="_Group_111" data-name="&lt;Group&gt;" class="cls-2">
+              <g id="_Group_112" data-name="&lt;Group&gt;">
+                <polygon id="_Path_73" data-name="&lt;Path&gt;" class="cls-30" points="566.316 409.957 566.31 414.111 542.954 427.684 542.96 423.53 566.316 409.957"/>
+              </g>
+              <g id="_Group_113" data-name="&lt;Group&gt;">
+                <polygon id="_Path_74" data-name="&lt;Path&gt;" class="cls-23" points="542.96 423.53 542.954 427.684 519.449 414.113 519.454 409.959 542.96 423.53"/>
+              </g>
+            </g>
+          </g>
+          <polygon id="_Path_75" data-name="&lt;Path&gt;" class="cls-24" points="524.501 409.924 524.501 406.957 521.932 408.441 519.454 409.96 542.96 423.53 542.96 420.581 524.501 409.924"/>
+          <polygon id="_Path_76" data-name="&lt;Path&gt;" class="cls-31" points="563.838 408.438 563.836 408.44 561.268 406.957 561.268 409.933 542.96 420.581 542.96 423.53 566.316 409.957 563.838 408.438"/>
+        </g>
+        <g id="_Group_114" data-name="&lt;Group&gt;">
+          <g id="_Group_115" data-name="&lt;Group&gt;">
+            <g id="_Group_116" data-name="&lt;Group&gt;" class="cls-2">
+              <g id="_Group_117" data-name="&lt;Group&gt;">
+                <polygon id="_Path_77" data-name="&lt;Path&gt;" class="cls-30" points="566.316 420.32 566.31 424.474 542.954 438.047 542.96 433.894 566.316 420.32"/>
+              </g>
+              <g id="_Group_118" data-name="&lt;Group&gt;">
+                <polygon id="_Path_78" data-name="&lt;Path&gt;" class="cls-23" points="542.96 433.894 542.954 438.047 519.449 424.477 519.454 420.323 542.96 433.894"/>
+              </g>
+            </g>
+          </g>
+          <polygon id="_Path_79" data-name="&lt;Path&gt;" class="cls-24" points="524.501 420.287 524.501 417.32 521.932 418.804 519.454 420.323 542.96 433.894 542.96 430.944 524.501 420.287"/>
+          <polygon id="_Path_80" data-name="&lt;Path&gt;" class="cls-31" points="563.838 418.802 563.836 418.803 561.268 417.321 561.268 420.296 542.96 430.944 542.96 433.894 566.316 420.32 563.838 418.802"/>
+        </g>
+      </g>
+      <g id="tree-3" data-name="tree">
+        <polygon id="_Path_81" data-name="&lt;Path&gt;" class="cls-21" points="505.338 407.161 505.338 434.786 515.171 429.122 505.338 407.161"/>
+        <polygon id="_Path_82" data-name="&lt;Path&gt;" class="cls-13" points="505.338 407.161 505.338 434.786 495.507 429.119 505.338 407.161"/>
+      </g>
+      <g id="ground-3" data-name="ground">
+        <g id="_Group_119" data-name="&lt;Group&gt;" class="cls-2">
+          <g id="_Group_120" data-name="&lt;Group&gt;">
+            <polygon id="_Path_83" data-name="&lt;Path&gt;" class="cls-16" points="565.134 540.899 565.126 544.431 548.361 554.239 548.369 550.707 565.134 540.899"/>
+          </g>
+          <g id="_Group_121" data-name="&lt;Group&gt;">
+            <polygon id="_Path_84" data-name="&lt;Path&gt;" class="cls-17" points="548.369 550.707 548.361 554.239 531.375 544.432 531.383 540.9 548.369 550.707"/>
+          </g>
+          <g id="_Group_122" data-name="&lt;Group&gt;">
+            <polygon id="_Path_85" data-name="&lt;Path&gt;" class="cls-18" points="565.134 540.899 548.369 550.707 531.383 540.9 548.148 531.092 565.134 540.899"/>
+          </g>
+        </g>
+      </g>
+      <g id="ground-4" data-name="ground">
+        <g id="_Group_123" data-name="&lt;Group&gt;" class="cls-2">
+          <g id="_Group_124" data-name="&lt;Group&gt;">
+            <polygon id="_Path_86" data-name="&lt;Path&gt;" class="cls-16" points="381.271 637.422 381.264 640.954 364.499 650.762 364.506 647.23 381.271 637.422"/>
+          </g>
+          <g id="_Group_125" data-name="&lt;Group&gt;">
+            <polygon id="_Path_87" data-name="&lt;Path&gt;" class="cls-17" points="364.506 647.23 364.499 650.762 347.513 640.955 347.52 637.423 364.506 647.23"/>
+          </g>
+          <g id="_Group_126" data-name="&lt;Group&gt;">
+            <polygon id="_Path_88" data-name="&lt;Path&gt;" class="cls-18" points="381.271 637.422 364.506 647.23 347.52 637.423 364.285 627.615 381.271 637.422"/>
+          </g>
+        </g>
+      </g>
+      <g id="_Group_127" data-name="&lt;Group&gt;">
+        <g id="ground-5" data-name="ground">
+          <g id="_Group_128" data-name="&lt;Group&gt;" class="cls-2">
+            <g id="_Group_129" data-name="&lt;Group&gt;">
+              <polygon id="_Path_89" data-name="&lt;Path&gt;" class="cls-14" points="361.859 463.967 361.767 475.028 284.877 519.711 284.969 508.65 361.859 463.967"/>
+            </g>
+            <g id="_Group_130" data-name="&lt;Group&gt;">
+              <polygon id="_Path_90" data-name="&lt;Path&gt;" class="cls-32" points="284.969 508.65 284.877 519.711 207.485 475.028 207.576 463.968 284.969 508.65"/>
+            </g>
+            <g id="_Group_131" data-name="&lt;Group&gt;">
+              <polygon id="_Path_91" data-name="&lt;Path&gt;" class="cls-12" points="361.859 463.967 284.969 508.65 207.576 463.968 284.466 419.284 361.859 463.967"/>
+            </g>
+          </g>
+        </g>
+        <g id="house-4" data-name="house">
+          <g id="_Group_132" data-name="&lt;Group&gt;">
+            <g id="_Group_133" data-name="&lt;Group&gt;">
+              <g id="_Group_134" data-name="&lt;Group&gt;" class="cls-2">
+                <g id="_Group_135" data-name="&lt;Group&gt;">
+                  <polygon id="_Path_92" data-name="&lt;Path&gt;" class="cls-22" points="320.865 449.907 320.814 459.89 278.209 484.649 278.259 474.667 320.865 449.907"/>
+                </g>
+                <g id="_Group_136" data-name="&lt;Group&gt;">
+                  <polygon id="_Path_93" data-name="&lt;Path&gt;" class="cls-23" points="278.259 474.667 278.209 484.649 248.441 467.463 248.492 457.48 278.259 474.667"/>
+                </g>
+                <g id="_Group_137" data-name="&lt;Group&gt;">
+                  <polygon id="_Path_94" data-name="&lt;Path&gt;" class="cls-24" points="320.865 449.907 278.259 474.667 248.492 457.48 291.097 432.721 320.865 449.907"/>
+                </g>
+              </g>
+            </g>
+            <g id="_Group_138" data-name="&lt;Group&gt;">
+              <g id="_Group_139" data-name="&lt;Group&gt;" class="cls-2">
+                <g id="_Group_140" data-name="&lt;Group&gt;">
+                  <polygon id="_Path_95" data-name="&lt;Path&gt;" class="cls-33" points="311.677 352.827 311.639 451.963 279.844 470.441 279.882 371.304 311.677 352.827"/>
+                </g>
+                <g id="_Group_141" data-name="&lt;Group&gt;">
+                  <polygon id="_Path_96" data-name="&lt;Path&gt;" class="cls-34" points="279.882 371.304 279.844 470.441 257.629 457.615 257.667 358.479 279.882 371.304"/>
+                </g>
+                <g id="_Group_142" data-name="&lt;Group&gt;">
+                  <polygon id="_Path_97" data-name="&lt;Path&gt;" class="cls-24" points="311.677 352.827 279.882 371.304 257.667 358.479 289.462 340.001 311.677 352.827"/>
+                </g>
+              </g>
+            </g>
+            <g id="_Group_143" data-name="&lt;Group&gt;">
+              <g id="_Group_144" data-name="&lt;Group&gt;" class="cls-2">
+                <g id="_Group_145" data-name="&lt;Group&gt;">
+                  <polygon id="_Path_98" data-name="&lt;Path&gt;" class="cls-22" points="318.798 340.151 318.75 349.564 278.576 372.91 278.624 363.498 318.798 340.151"/>
+                </g>
+                <g id="_Group_146" data-name="&lt;Group&gt;">
+                  <polygon id="_Path_99" data-name="&lt;Path&gt;" class="cls-23" points="278.624 363.498 278.576 372.91 250.508 356.705 250.556 347.292 278.624 363.498"/>
+                </g>
+                <g id="_Group_147" data-name="&lt;Group&gt;">
+                  <polygon id="_Path_100" data-name="&lt;Path&gt;" class="cls-24" points="318.798 340.151 278.624 363.498 250.556 347.292 290.729 323.946 318.798 340.151"/>
+                </g>
+              </g>
+            </g>
+            <g id="_Group_148" data-name="&lt;Group&gt;">
+              <g id="_Group_149" data-name="&lt;Group&gt;" class="cls-2">
+                <g id="_Group_150" data-name="&lt;Group&gt;">
+                  <polygon id="_Path_101" data-name="&lt;Path&gt;" class="cls-22" points="311.693 333.406 311.655 340.86 279.841 359.348 279.879 351.894 311.693 333.406"/>
+                </g>
+                <g id="_Group_151" data-name="&lt;Group&gt;">
+                  <polygon id="_Path_102" data-name="&lt;Path&gt;" class="cls-23" points="279.879 351.894 279.841 359.348 257.613 346.515 257.651 339.061 279.879 351.894"/>
+                </g>
+                <g id="_Group_152" data-name="&lt;Group&gt;">
+                  <polygon id="_Path_103" data-name="&lt;Path&gt;" class="cls-24" points="311.693 333.406 279.879 351.894 257.651 339.061 289.465 320.573 311.693 333.406"/>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="_Group_153" data-name="&lt;Group&gt;">
+            <g id="_Group_154" data-name="&lt;Group&gt;" class="cls-2">
+              <g id="_Group_155" data-name="&lt;Group&gt;">
+                <polygon id="_Path_104" data-name="&lt;Path&gt;" class="cls-22" points="278.576 334.784 278.564 339.307 270.967 343.722 270.98 339.198 278.576 334.784"/>
+              </g>
+              <g id="_Group_156" data-name="&lt;Group&gt;">
+                <polygon id="_Path_105" data-name="&lt;Path&gt;" class="cls-23" points="270.98 339.198 270.967 343.722 263.322 339.307 263.245 334.738 270.98 339.198"/>
+              </g>
+              <g id="_Group_157" data-name="&lt;Group&gt;">
+                <polygon id="_Path_106" data-name="&lt;Path&gt;" class="cls-24" points="278.576 334.784 270.98 339.198 263.334 334.784 270.931 330.369 278.576 334.784"/>
+              </g>
+            </g>
+          </g>
+          <g id="_Group_158" data-name="&lt;Group&gt;">
+            <g id="_Group_159" data-name="&lt;Group&gt;" class="cls-2">
+              <g id="_Group_160" data-name="&lt;Group&gt;">
+                <polygon id="_Path_107" data-name="&lt;Path&gt;" class="cls-22" points="276.245 331.305 276.236 334.453 270.95 337.525 270.959 334.377 276.245 331.305"/>
+              </g>
+              <g id="_Group_161" data-name="&lt;Group&gt;">
+                <polygon id="_Path_108" data-name="&lt;Path&gt;" class="cls-23" points="270.959 334.377 270.95 337.525 265.63 334.453 265.577 331.273 270.959 334.377"/>
+              </g>
+              <g id="_Group_162" data-name="&lt;Group&gt;">
+                <polygon id="_Path_109" data-name="&lt;Path&gt;" class="cls-24" points="276.245 331.305 270.959 334.377 265.639 331.305 270.925 328.234 276.245 331.305"/>
+              </g>
+            </g>
+          </g>
+          <g id="_Group_163" data-name="&lt;Group&gt;">
+            <g id="_Group_164" data-name="&lt;Group&gt;">
+              <g id="_Group_165" data-name="&lt;Group&gt;" class="cls-2">
+                <g id="_Group_166" data-name="&lt;Group&gt;">
+                  <polygon id="_Path_110" data-name="&lt;Path&gt;" class="cls-22" points="301.125 455.22 301.086 478.4 284.415 488.148 284.454 464.968 301.125 455.22"/>
+                </g>
+                <g id="_Group_167" data-name="&lt;Group&gt;">
+                  <polygon id="_Path_111" data-name="&lt;Path&gt;" class="cls-23" points="284.454 464.968 284.415 488.148 278.209 484.565 278.247 461.385 284.454 464.968"/>
+                </g>
+                <g id="_Group_168" data-name="&lt;Group&gt;">
+                  <polygon id="_Path_112" data-name="&lt;Path&gt;" class="cls-24" points="301.125 455.22 284.454 464.968 278.247 461.385 294.918 451.637 301.125 455.22"/>
+                </g>
+              </g>
+            </g>
+            <g id="_Group_169" data-name="&lt;Group&gt;">
+              <g id="_Group_170" data-name="&lt;Group&gt;" class="cls-2">
+                <g id="_Group_171" data-name="&lt;Group&gt;">
+                  <polygon id="_Path_113" data-name="&lt;Path&gt;" class="cls-28" points="288.451 442.102 288.453 457.713 289.683 458.428 289.681 442.817 288.451 442.102"/>
+                </g>
+                <g id="_Group_172" data-name="&lt;Group&gt;">
+                  <polygon id="_Path_114" data-name="&lt;Path&gt;" class="cls-29" points="289.681 442.817 289.683 458.428 290.921 457.713 290.919 442.102 289.681 442.817"/>
+                </g>
+                <g id="_Group_173" data-name="&lt;Group&gt;">
+                  <polygon id="_Path_115" data-name="&lt;Path&gt;" class="cls-28" points="288.451 442.102 289.681 442.817 290.919 442.102 289.689 441.387 288.451 442.102"/>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="tree-4" data-name="tree">
+        <polygon id="_Path_116" data-name="&lt;Path&gt;" class="cls-21" points="231.114 442.268 231.114 469.892 240.946 464.229 231.114 442.268"/>
+        <polygon id="_Path_117" data-name="&lt;Path&gt;" class="cls-13" points="231.114 442.268 231.114 469.892 221.283 464.226 231.114 442.268"/>
+      </g>
+      <g id="house-5" data-name="house">
+        <g id="_Group_174" data-name="&lt;Group&gt;">
+          <g id="_Group_175" data-name="&lt;Group&gt;" class="cls-2">
+            <g id="_Group_176" data-name="&lt;Group&gt;">
+              <polygon id="_Path_118" data-name="&lt;Path&gt;" class="cls-13" points="500.176 458.509 474.018 473.711 447.693 458.512 473.851 443.31 500.176 458.509"/>
+            </g>
+          </g>
+        </g>
+        <g id="_Group_177" data-name="&lt;Group&gt;">
+          <g id="_Group_178" data-name="&lt;Group&gt;" class="cls-2">
+            <g id="_Group_179" data-name="&lt;Group&gt;">
+              <polygon id="_Path_119" data-name="&lt;Path&gt;" class="cls-33" points="492.328 420.07 492.306 458.643 473.978 469.294 474 430.721 492.328 420.07"/>
+            </g>
+            <g id="_Group_180" data-name="&lt;Group&gt;">
+              <polygon id="_Path_120" data-name="&lt;Path&gt;" class="cls-34" points="474 430.721 473.978 469.294 455.53 458.643 455.552 420.07 474 430.721"/>
+            </g>
+            <g id="_Group_181" data-name="&lt;Group&gt;">
+              <polygon id="_Path_121" data-name="&lt;Path&gt;" class="cls-24" points="492.328 420.07 474 430.721 455.552 420.07 473.88 409.419 492.328 420.07"/>
+            </g>
+          </g>
+        </g>
+        <g id="_Group_182" data-name="&lt;Group&gt;">
+          <g id="_Group_183" data-name="&lt;Group&gt;" class="cls-2">
+            <g id="_Group_184" data-name="&lt;Group&gt;">
+              <polygon id="_Path_122" data-name="&lt;Path&gt;" class="cls-30" points="497.362 420.396 497.357 424.55 474.001 438.123 474.006 433.969 497.362 420.396"/>
+            </g>
+            <g id="_Group_185" data-name="&lt;Group&gt;">
+              <polygon id="_Path_123" data-name="&lt;Path&gt;" class="cls-23" points="474.006 433.969 474.001 438.123 450.495 424.552 450.501 420.399 474.006 433.969"/>
+            </g>
+            <g id="_Group_186" data-name="&lt;Group&gt;">
+              <polygon id="_Path_124" data-name="&lt;Path&gt;" class="cls-31" points="497.362 420.396 474.006 433.969 450.501 420.399 473.857 406.826 497.362 420.396"/>
+            </g>
+          </g>
+        </g>
+        <g id="_Group_187" data-name="&lt;Group&gt;">
+          <g id="_Group_188" data-name="&lt;Group&gt;">
+            <g id="_Group_189" data-name="&lt;Group&gt;" class="cls-2">
+              <g id="_Group_190" data-name="&lt;Group&gt;">
+                <polygon id="_Path_125" data-name="&lt;Path&gt;" class="cls-30" points="497.362 433.133 497.357 437.287 474.001 450.86 474.006 446.706 497.362 433.133"/>
+              </g>
+              <g id="_Group_191" data-name="&lt;Group&gt;">
+                <polygon id="_Path_126" data-name="&lt;Path&gt;" class="cls-23" points="474.006 446.706 474.001 450.86 450.495 437.289 450.501 433.135 474.006 446.706"/>
+              </g>
+            </g>
+          </g>
+          <polygon id="_Path_127" data-name="&lt;Path&gt;" class="cls-24" points="455.547 433.1 455.548 430.133 452.978 431.617 450.501 433.135 474.006 446.706 474.006 443.757 455.547 433.1"/>
+          <polygon id="_Path_128" data-name="&lt;Path&gt;" class="cls-31" points="494.885 431.614 494.882 431.616 492.315 430.133 492.315 433.109 474.006 443.757 474.006 446.706 497.362 433.133 494.885 431.614"/>
+        </g>
+        <g id="_Group_192" data-name="&lt;Group&gt;">
+          <g id="_Group_193" data-name="&lt;Group&gt;">
+            <g id="_Group_194" data-name="&lt;Group&gt;" class="cls-2">
+              <g id="_Group_195" data-name="&lt;Group&gt;">
+                <polygon id="_Path_129" data-name="&lt;Path&gt;" class="cls-30" points="497.362 443.496 497.357 447.65 474.001 461.223 474.006 457.069 497.362 443.496"/>
+              </g>
+              <g id="_Group_196" data-name="&lt;Group&gt;">
+                <polygon id="_Path_130" data-name="&lt;Path&gt;" class="cls-23" points="474.006 457.069 474.001 461.223 450.495 447.652 450.501 443.499 474.006 457.069"/>
+              </g>
+            </g>
+          </g>
+          <polygon id="_Path_131" data-name="&lt;Path&gt;" class="cls-24" points="455.547 443.463 455.548 440.496 452.978 441.98 450.501 443.499 474.006 457.069 474.006 454.12 455.547 443.463"/>
+          <polygon id="_Path_132" data-name="&lt;Path&gt;" class="cls-31" points="494.885 441.978 494.882 441.979 492.315 440.497 492.315 443.472 474.006 454.12 474.006 457.069 497.362 443.496 494.885 441.978"/>
+        </g>
+      </g>
+      <g id="house-6" data-name="house">
+        <g id="_Group_197" data-name="&lt;Group&gt;">
+          <g id="_Group_198" data-name="&lt;Group&gt;" class="cls-2">
+            <g id="_Group_199" data-name="&lt;Group&gt;">
+              <polygon id="_Path_133" data-name="&lt;Path&gt;" class="cls-13" points="467.296 477.493 441.138 492.694 414.812 477.495 440.97 462.294 467.296 477.493"/>
+            </g>
+          </g>
+        </g>
+        <g id="_Group_200" data-name="&lt;Group&gt;">
+          <g id="_Group_201" data-name="&lt;Group&gt;" class="cls-2">
+            <g id="_Group_202" data-name="&lt;Group&gt;">
+              <polygon id="_Path_134" data-name="&lt;Path&gt;" class="cls-11" points="459.447 439.054 459.425 477.626 441.097 488.278 441.119 449.705 459.447 439.054"/>
+            </g>
+            <g id="_Group_203" data-name="&lt;Group&gt;">
+              <polygon id="_Path_135" data-name="&lt;Path&gt;" class="cls-25" points="441.119 449.705 441.097 488.278 422.649 477.627 422.671 439.054 441.119 449.705"/>
+            </g>
+            <g id="_Group_204" data-name="&lt;Group&gt;">
+              <polygon id="_Path_136" data-name="&lt;Path&gt;" class="cls-24" points="459.447 439.054 441.119 449.705 422.671 439.054 440.999 428.403 459.447 439.054"/>
+            </g>
+          </g>
+        </g>
+        <g id="_Group_205" data-name="&lt;Group&gt;">
+          <g id="_Group_206" data-name="&lt;Group&gt;" class="cls-2">
+            <g id="_Group_207" data-name="&lt;Group&gt;">
+              <polygon id="_Path_137" data-name="&lt;Path&gt;" class="cls-30" points="464.482 439.38 464.476 443.533 441.12 457.107 441.126 452.953 464.482 439.38"/>
+            </g>
+            <g id="_Group_208" data-name="&lt;Group&gt;">
+              <polygon id="_Path_138" data-name="&lt;Path&gt;" class="cls-23" points="441.126 452.953 441.12 457.107 417.615 443.536 417.62 439.382 441.126 452.953"/>
+            </g>
+            <g id="_Group_209" data-name="&lt;Group&gt;">
+              <polygon id="_Path_139" data-name="&lt;Path&gt;" class="cls-24" points="464.482 439.38 441.126 452.953 417.62 439.382 440.976 425.809 464.482 439.38"/>
+            </g>
+          </g>
+        </g>
+        <g id="_Group_210" data-name="&lt;Group&gt;">
+          <g id="_Group_211" data-name="&lt;Group&gt;">
+            <g id="_Group_212" data-name="&lt;Group&gt;" class="cls-2">
+              <g id="_Group_213" data-name="&lt;Group&gt;">
+                <polygon id="_Path_140" data-name="&lt;Path&gt;" class="cls-30" points="464.482 452.117 464.476 456.27 441.12 469.843 441.126 465.69 464.482 452.117"/>
+              </g>
+              <g id="_Group_214" data-name="&lt;Group&gt;">
+                <polygon id="_Path_141" data-name="&lt;Path&gt;" class="cls-23" points="441.126 465.69 441.12 469.843 417.615 456.272 417.62 452.119 441.126 465.69"/>
+              </g>
+            </g>
+          </g>
+          <polygon id="_Path_142" data-name="&lt;Path&gt;" class="cls-24" points="422.667 452.083 422.667 449.117 420.098 450.6 417.62 452.119 441.126 465.69 441.126 462.74 422.667 452.083"/>
+          <polygon id="_Path_143" data-name="&lt;Path&gt;" class="cls-31" points="462.004 450.598 462.002 450.599 459.434 449.117 459.434 452.092 441.126 462.74 441.126 465.69 464.482 452.117 462.004 450.598"/>
+        </g>
+        <g id="_Group_215" data-name="&lt;Group&gt;">
+          <g id="_Group_216" data-name="&lt;Group&gt;">
+            <g id="_Group_217" data-name="&lt;Group&gt;" class="cls-2">
+              <g id="_Group_218" data-name="&lt;Group&gt;">
+                <polygon id="_Path_144" data-name="&lt;Path&gt;" class="cls-30" points="464.482 462.48 464.476 466.634 441.12 480.207 441.126 476.053 464.482 462.48"/>
+              </g>
+              <g id="_Group_219" data-name="&lt;Group&gt;">
+                <polygon id="_Path_145" data-name="&lt;Path&gt;" class="cls-23" points="441.126 476.053 441.12 480.207 417.615 466.636 417.62 462.482 441.126 476.053"/>
+              </g>
+            </g>
+          </g>
+          <polygon id="_Path_146" data-name="&lt;Path&gt;" class="cls-24" points="422.667 462.447 422.667 459.48 420.098 460.963 417.62 462.482 441.126 476.053 441.126 473.104 422.667 462.447"/>
+          <polygon id="_Path_147" data-name="&lt;Path&gt;" class="cls-31" points="462.004 460.961 462.002 460.962 459.434 459.48 459.434 462.456 441.126 473.104 441.126 476.053 464.482 462.48 462.004 460.961"/>
+        </g>
+      </g>
+      <g id="tree-5" data-name="tree">
+        <polygon id="_Path_148" data-name="&lt;Path&gt;" class="cls-21" points="483.152 489.519 483.152 517.143 492.984 511.48 483.152 489.519"/>
+        <polygon id="_Path_149" data-name="&lt;Path&gt;" class="cls-13" points="483.152 489.519 483.152 517.143 473.321 511.477 483.152 489.519"/>
+      </g>
+      <g id="tree-6" data-name="tree">
+        <polygon id="_Path_150" data-name="&lt;Path&gt;" class="cls-21" points="531.204 468.142 531.204 486.846 537.861 483.012 531.204 468.142"/>
+        <polygon id="_Path_151" data-name="&lt;Path&gt;" class="cls-13" points="531.204 468.142 531.204 486.846 524.547 483.009 531.204 468.142"/>
+      </g>
+      <g id="tree-7" data-name="tree">
+        <polygon id="_Path_152" data-name="&lt;Path&gt;" class="cls-21" points="246.226 459.942 246.226 478.646 252.884 474.811 246.226 459.942"/>
+        <polygon id="_Path_153" data-name="&lt;Path&gt;" class="cls-13" points="246.226 459.942 246.226 478.646 239.57 474.809 246.226 459.942"/>
+      </g>
+      <g id="tree-8" data-name="tree">
+        <polygon id="_Path_154" data-name="&lt;Path&gt;" class="cls-21" points="531.382 517.621 531.382 536.325 538.04 532.491 531.382 517.621"/>
+        <polygon id="_Path_155" data-name="&lt;Path&gt;" class="cls-13" points="531.382 517.621 531.382 536.325 524.726 532.488 531.382 517.621"/>
+      </g>
+      <g id="tree-9" data-name="tree">
+        <polygon id="_Path_156" data-name="&lt;Path&gt;" class="cls-21" points="598.629 495.397 598.629 514.101 605.287 510.266 598.629 495.397"/>
+        <polygon id="_Path_157" data-name="&lt;Path&gt;" class="cls-13" points="598.629 495.397 598.629 514.101 591.973 510.264 598.629 495.397"/>
+      </g>
+      <g id="tree-10" data-name="tree">
+        <polygon id="_Path_158" data-name="&lt;Path&gt;" class="cls-21" points="638.125 475.487 638.125 494.191 644.783 490.356 638.125 475.487"/>
+        <polygon id="_Path_159" data-name="&lt;Path&gt;" class="cls-13" points="638.125 475.487 638.125 494.191 631.469 490.354 638.125 475.487"/>
+      </g>
+      <g id="tree-11" data-name="tree">
+        <polygon id="_Path_160" data-name="&lt;Path&gt;" class="cls-21" points="564.989 476.436 564.989 495.14 571.646 491.305 564.989 476.436"/>
+        <polygon id="_Path_161" data-name="&lt;Path&gt;" class="cls-13" points="564.989 476.436 564.989 495.14 558.333 491.303 564.989 476.436"/>
+      </g>
+      <g id="house-7" data-name="house">
+        <g id="_Group_220" data-name="&lt;Group&gt;">
+          <g id="_Group_221" data-name="&lt;Group&gt;" class="cls-2">
+            <g id="_Group_222" data-name="&lt;Group&gt;">
+              <polygon id="_Path_162" data-name="&lt;Path&gt;" class="cls-22" points="476.773 488.986 476.434 563.422 497.125 575.447 497.464 501.011 476.773 488.986"/>
+            </g>
+            <g id="_Group_223" data-name="&lt;Group&gt;">
+              <polygon id="_Path_163" data-name="&lt;Path&gt;" class="cls-23" points="497.464 501.011 497.125 575.447 517.951 563.423 518.29 488.987 497.464 501.011"/>
+            </g>
+            <g id="_Group_224" data-name="&lt;Group&gt;">
+              <polygon id="_Path_164" data-name="&lt;Path&gt;" class="cls-24" points="476.773 488.986 497.464 501.011 518.29 488.987 497.6 476.962 476.773 488.986"/>
+            </g>
+          </g>
+        </g>
+        <g id="_Group_225" data-name="&lt;Group&gt;">
+          <g id="_Group_226" data-name="&lt;Group&gt;" class="cls-2">
+            <g id="_Group_227" data-name="&lt;Group&gt;">
+              <polygon id="_Path_165" data-name="&lt;Path&gt;" class="cls-11" points="487.846 484.839 487.857 490.192 497.518 495.806 497.507 490.453 487.846 484.839"/>
+            </g>
+            <g id="_Group_228" data-name="&lt;Group&gt;">
+              <polygon id="_Path_166" data-name="&lt;Path&gt;" class="cls-26" points="497.507 490.453 497.518 495.806 507.243 490.192 507.231 484.839 497.507 490.453"/>
+            </g>
+            <g id="_Group_229" data-name="&lt;Group&gt;">
+              <polygon id="_Path_167" data-name="&lt;Path&gt;" class="cls-27" points="487.846 484.839 497.507 490.453 507.231 484.839 497.57 479.224 487.846 484.839"/>
+            </g>
+          </g>
+        </g>
+        <g id="_Group_230" data-name="&lt;Group&gt;">
+          <g id="_Group_231" data-name="&lt;Group&gt;" class="cls-2">
+            <g id="_Group_232" data-name="&lt;Group&gt;">
+              <polygon id="_Path_168" data-name="&lt;Path&gt;" class="cls-23" points="517.116 499.096 516.727 568.608 506.127 574.806 506.515 505.295 517.116 499.096"/>
+            </g>
+            <g id="_Group_233" data-name="&lt;Group&gt;">
+              <polygon id="_Path_169" data-name="&lt;Path&gt;" class="cls-22" points="506.515 505.295 506.127 574.806 502.18 572.528 502.569 503.016 506.515 505.295"/>
+            </g>
+            <g id="_Group_234" data-name="&lt;Group&gt;">
+              <polygon id="_Path_170" data-name="&lt;Path&gt;" class="cls-24" points="517.116 499.096 506.515 505.295 502.569 503.016 513.17 496.818 517.116 499.096"/>
+            </g>
+          </g>
+        </g>
+        <g id="_Group_235" data-name="&lt;Group&gt;">
+          <g id="_Group_236" data-name="&lt;Group&gt;" class="cls-2">
+            <g id="_Group_237" data-name="&lt;Group&gt;">
+              <polygon id="_Path_171" data-name="&lt;Path&gt;" class="cls-28" points="493.755 472.181 493.76 485.053 497.534 487.247 497.53 474.375 493.755 472.181"/>
+            </g>
+            <g id="_Group_238" data-name="&lt;Group&gt;">
+              <polygon id="_Path_172" data-name="&lt;Path&gt;" class="cls-29" points="497.53 474.375 497.534 487.247 501.333 485.053 501.329 472.181 497.53 474.375"/>
+            </g>
+            <g id="_Group_239" data-name="&lt;Group&gt;">
+              <polygon id="_Path_173" data-name="&lt;Path&gt;" class="cls-24" points="493.755 472.181 497.53 474.375 501.329 472.181 497.554 469.988 493.755 472.181"/>
+            </g>
+          </g>
+        </g>
+        <g id="_Group_240" data-name="&lt;Group&gt;">
+          <g id="_Group_241" data-name="&lt;Group&gt;" class="cls-2">
+            <g id="_Group_242" data-name="&lt;Group&gt;">
+              <polygon id="_Path_174" data-name="&lt;Path&gt;" class="cls-11" points="491.91 469.868 491.917 472.978 497.529 476.24 497.522 473.13 491.91 469.868"/>
+            </g>
+            <g id="_Group_243" data-name="&lt;Group&gt;">
+              <polygon id="_Path_175" data-name="&lt;Path&gt;" class="cls-26" points="497.522 473.13 497.529 476.24 503.179 472.978 503.172 469.868 497.522 473.13"/>
+            </g>
+            <g id="_Group_244" data-name="&lt;Group&gt;">
+              <polygon id="_Path_176" data-name="&lt;Path&gt;" class="cls-27" points="491.91 469.868 497.522 473.13 503.172 469.868 497.559 466.606 491.91 469.868"/>
+            </g>
+          </g>
+        </g>
+        <g id="_Group_245" data-name="&lt;Group&gt;">
+          <g id="_Group_246" data-name="&lt;Group&gt;" class="cls-2">
+            <g id="_Group_247" data-name="&lt;Group&gt;">
+              <polygon id="_Path_177" data-name="&lt;Path&gt;" class="cls-28" points="495.137 454.562 495.139 469.927 497.538 471.321 497.535 455.956 495.137 454.562"/>
+            </g>
+            <g id="_Group_248" data-name="&lt;Group&gt;">
+              <polygon id="_Path_178" data-name="&lt;Path&gt;" class="cls-29" points="497.535 455.956 497.538 471.321 499.952 469.927 499.949 454.562 497.535 455.956"/>
+            </g>
+            <g id="_Group_249" data-name="&lt;Group&gt;">
+              <polygon id="_Path_179" data-name="&lt;Path&gt;" class="cls-28" points="495.137 454.562 497.535 455.956 499.949 454.562 497.551 453.169 495.137 454.562"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="house-8" data-name="house">
+        <g id="_Group_250" data-name="&lt;Group&gt;">
+          <g id="_Group_251" data-name="&lt;Group&gt;" class="cls-2">
+            <g id="_Group_252" data-name="&lt;Group&gt;">
+              <polygon id="_Path_180" data-name="&lt;Path&gt;" class="cls-23" points="333.072 450.739 333.096 528.299 353.876 540.375 353.851 462.814 333.072 450.739"/>
+            </g>
+            <g id="_Group_253" data-name="&lt;Group&gt;">
+              <polygon id="_Path_181" data-name="&lt;Path&gt;" class="cls-22" points="353.851 462.814 353.876 540.375 374.792 528.3 374.767 450.739 353.851 462.814"/>
+            </g>
+            <g id="_Group_254" data-name="&lt;Group&gt;">
+              <polygon id="_Path_182" data-name="&lt;Path&gt;" class="cls-24" points="333.072 450.739 353.851 462.814 374.767 450.739 353.987 438.663 333.072 450.739"/>
+            </g>
+          </g>
+        </g>
+        <g id="_Group_255" data-name="&lt;Group&gt;">
+          <g id="_Group_256" data-name="&lt;Group&gt;" class="cls-2">
+            <g id="_Group_257" data-name="&lt;Group&gt;">
+              <polygon id="_Path_183" data-name="&lt;Path&gt;" class="cls-23" points="329.085 457.98 329.11 530.595 339.756 536.82 339.731 464.205 329.085 457.98"/>
+            </g>
+            <g id="_Group_258" data-name="&lt;Group&gt;">
+              <polygon id="_Path_184" data-name="&lt;Path&gt;" class="cls-22" points="339.731 464.205 339.756 536.82 343.719 534.532 343.694 461.917 339.731 464.205"/>
+            </g>
+            <g id="_Group_259" data-name="&lt;Group&gt;">
+              <polygon id="_Path_185" data-name="&lt;Path&gt;" class="cls-24" points="329.085 457.98 339.731 464.205 343.694 461.917 333.048 455.691 329.085 457.98"/>
+            </g>
+          </g>
+        </g>
+        <g id="_Group_260" data-name="&lt;Group&gt;">
+          <g id="_Group_261" data-name="&lt;Group&gt;" class="cls-2">
+            <g id="_Group_262" data-name="&lt;Group&gt;">
+              <polygon id="_Path_186" data-name="&lt;Path&gt;" class="cls-22" points="379.026 457.98 379.001 530.595 368.355 536.82 368.38 464.205 379.026 457.98"/>
+            </g>
+            <g id="_Group_263" data-name="&lt;Group&gt;">
+              <polygon id="_Path_187" data-name="&lt;Path&gt;" class="cls-23" points="368.38 464.205 368.355 536.82 364.392 534.532 364.417 461.917 368.38 464.205"/>
+            </g>
+            <g id="_Group_264" data-name="&lt;Group&gt;">
+              <polygon id="_Path_188" data-name="&lt;Path&gt;" class="cls-24" points="379.026 457.98 368.38 464.205 364.417 461.917 375.063 455.691 379.026 457.98"/>
+            </g>
+          </g>
+        </g>
+        <g id="_Group_265" data-name="&lt;Group&gt;">
+          <g id="_Group_266" data-name="&lt;Group&gt;" class="cls-2">
+            <g id="_Group_267" data-name="&lt;Group&gt;">
+              <polygon id="_Path_189" data-name="&lt;Path&gt;" class="cls-22" points="361.436 450.876 361.424 455.4 353.827 459.814 353.84 455.291 361.436 450.876"/>
+            </g>
+            <g id="_Group_268" data-name="&lt;Group&gt;">
+              <polygon id="_Path_190" data-name="&lt;Path&gt;" class="cls-23" points="353.84 455.291 353.827 459.814 346.182 455.4 346.105 450.83 353.84 455.291"/>
+            </g>
+            <g id="_Group_269" data-name="&lt;Group&gt;">
+              <polygon id="_Path_191" data-name="&lt;Path&gt;" class="cls-24" points="361.436 450.876 353.84 455.291 346.194 450.876 353.791 446.462 361.436 450.876"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="house-9" data-name="house">
+        <g id="_Group_270" data-name="&lt;Group&gt;">
+          <g id="_Group_271" data-name="&lt;Group&gt;" class="cls-2">
+            <g id="_Group_272" data-name="&lt;Group&gt;">
+              <polygon id="_Path_192" data-name="&lt;Path&gt;" class="cls-22" points="396.498 545.269 396.479 549.131 379.997 558.709 380.016 554.847 396.498 545.269"/>
+            </g>
+            <g id="_Group_273" data-name="&lt;Group&gt;">
+              <polygon id="_Path_193" data-name="&lt;Path&gt;" class="cls-23" points="380.016 554.847 379.997 558.709 368.481 552.06 368.501 548.199 380.016 554.847"/>
+            </g>
+            <g id="_Group_274" data-name="&lt;Group&gt;">
+              <polygon id="_Path_194" data-name="&lt;Path&gt;" class="cls-24" points="396.498 545.269 380.016 554.847 368.501 548.199 384.983 538.621 396.498 545.269"/>
+            </g>
+          </g>
+        </g>
+        <g id="_Group_275" data-name="&lt;Group&gt;">
+          <g id="_Group_276" data-name="&lt;Group&gt;" class="cls-2">
+            <g id="_Group_277" data-name="&lt;Group&gt;">
+              <polygon id="_Path_195" data-name="&lt;Path&gt;" class="cls-11" points="396.49 494.433 396.47 545.792 379.998 555.365 380.018 504.005 396.49 494.433"/>
+            </g>
+            <g id="_Group_278" data-name="&lt;Group&gt;">
+              <polygon id="_Path_196" data-name="&lt;Path&gt;" class="cls-25" points="380.018 504.005 379.998 555.365 368.489 548.72 368.509 497.361 380.018 504.005"/>
+            </g>
+            <g id="_Group_279" data-name="&lt;Group&gt;">
+              <polygon id="_Path_197" data-name="&lt;Path&gt;" class="cls-24" points="396.49 494.433 380.018 504.005 368.509 497.361 384.981 487.788 396.49 494.433"/>
+            </g>
+          </g>
+        </g>
+        <g id="_Group_280" data-name="&lt;Group&gt;">
+          <g id="_Group_281" data-name="&lt;Group&gt;" class="cls-2">
+            <g id="_Group_282" data-name="&lt;Group&gt;">
+              <polygon id="_Path_198" data-name="&lt;Path&gt;" class="cls-22" points="396.498 491.072 396.479 494.933 379.997 504.512 380.016 500.65 396.498 491.072"/>
+            </g>
+            <g id="_Group_283" data-name="&lt;Group&gt;">
+              <polygon id="_Path_199" data-name="&lt;Path&gt;" class="cls-23" points="380.016 500.65 379.997 504.512 368.481 497.863 368.501 494.002 380.016 500.65"/>
+            </g>
+            <g id="_Group_284" data-name="&lt;Group&gt;">
+              <polygon id="_Path_200" data-name="&lt;Path&gt;" class="cls-24" points="396.498 491.072 380.016 500.65 368.501 494.002 384.983 484.423 396.498 491.072"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="house-10" data-name="house">
+        <g id="_Group_285" data-name="&lt;Group&gt;">
+          <g id="_Group_286" data-name="&lt;Group&gt;" class="cls-2">
+            <g id="_Group_287" data-name="&lt;Group&gt;">
+              <polygon id="_Path_201" data-name="&lt;Path&gt;" class="cls-22" points="421.631 559.78 421.612 563.641 405.13 573.22 405.149 569.358 421.631 559.78"/>
+            </g>
+            <g id="_Group_288" data-name="&lt;Group&gt;">
+              <polygon id="_Path_202" data-name="&lt;Path&gt;" class="cls-23" points="405.149 569.358 405.13 573.22 393.614 566.571 393.634 562.709 405.149 569.358"/>
+            </g>
+            <g id="_Group_289" data-name="&lt;Group&gt;">
+              <polygon id="_Path_203" data-name="&lt;Path&gt;" class="cls-24" points="421.631 559.78 405.149 569.358 393.634 562.709 410.116 553.131 421.631 559.78"/>
+            </g>
+          </g>
+        </g>
+        <g id="_Group_290" data-name="&lt;Group&gt;">
+          <g id="_Group_291" data-name="&lt;Group&gt;" class="cls-2">
+            <g id="_Group_292" data-name="&lt;Group&gt;">
+              <polygon id="_Path_204" data-name="&lt;Path&gt;" class="cls-11" points="421.623 508.943 421.603 560.303 405.131 569.876 405.151 518.516 421.623 508.943"/>
+            </g>
+            <g id="_Group_293" data-name="&lt;Group&gt;">
+              <polygon id="_Path_205" data-name="&lt;Path&gt;" class="cls-25" points="405.151 518.516 405.131 569.876 393.622 563.231 393.642 511.871 405.151 518.516"/>
+            </g>
+            <g id="_Group_294" data-name="&lt;Group&gt;">
+              <polygon id="_Path_206" data-name="&lt;Path&gt;" class="cls-24" points="421.623 508.943 405.151 518.516 393.642 511.871 410.114 502.299 421.623 508.943"/>
+            </g>
+          </g>
+        </g>
+        <g id="_Group_295" data-name="&lt;Group&gt;">
+          <g id="_Group_296" data-name="&lt;Group&gt;" class="cls-2">
+            <g id="_Group_297" data-name="&lt;Group&gt;">
+              <polygon id="_Path_207" data-name="&lt;Path&gt;" class="cls-22" points="421.631 505.582 421.612 509.444 405.13 519.022 405.149 515.161 421.631 505.582"/>
+            </g>
+            <g id="_Group_298" data-name="&lt;Group&gt;">
+              <polygon id="_Path_208" data-name="&lt;Path&gt;" class="cls-23" points="405.149 515.161 405.13 519.022 393.614 512.374 393.634 508.512 405.149 515.161"/>
+            </g>
+            <g id="_Group_299" data-name="&lt;Group&gt;">
+              <polygon id="_Path_209" data-name="&lt;Path&gt;" class="cls-24" points="421.631 505.582 405.149 515.161 393.634 508.512 410.116 498.934 421.631 505.582"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="house-11" data-name="house">
+        <g id="_Group_300" data-name="&lt;Group&gt;">
+          <g id="_Group_301" data-name="&lt;Group&gt;" class="cls-2">
+            <g id="_Group_302" data-name="&lt;Group&gt;">
+              <polygon id="_Path_210" data-name="&lt;Path&gt;" class="cls-22" points="445.39 573.497 445.371 577.359 428.889 586.937 428.908 583.075 445.39 573.497"/>
+            </g>
+            <g id="_Group_303" data-name="&lt;Group&gt;">
+              <polygon id="_Path_211" data-name="&lt;Path&gt;" class="cls-23" points="428.908 583.075 428.889 586.937 417.373 580.288 417.393 576.427 428.908 583.075"/>
+            </g>
+            <g id="_Group_304" data-name="&lt;Group&gt;">
+              <polygon id="_Path_212" data-name="&lt;Path&gt;" class="cls-24" points="445.39 573.497 428.908 583.075 417.393 576.427 433.875 566.849 445.39 573.497"/>
+            </g>
+          </g>
+        </g>
+        <g id="_Group_305" data-name="&lt;Group&gt;">
+          <g id="_Group_306" data-name="&lt;Group&gt;" class="cls-2">
+            <g id="_Group_307" data-name="&lt;Group&gt;">
+              <polygon id="_Path_213" data-name="&lt;Path&gt;" class="cls-11" points="445.382 522.66 445.363 574.02 428.89 583.593 428.91 532.233 445.382 522.66"/>
+            </g>
+            <g id="_Group_308" data-name="&lt;Group&gt;">
+              <polygon id="_Path_214" data-name="&lt;Path&gt;" class="cls-25" points="428.91 532.233 428.89 583.593 417.381 576.948 417.401 525.588 428.91 532.233"/>
+            </g>
+            <g id="_Group_309" data-name="&lt;Group&gt;">
+              <polygon id="_Path_215" data-name="&lt;Path&gt;" class="cls-24" points="445.382 522.66 428.91 532.233 417.401 525.588 433.873 516.016 445.382 522.66"/>
+            </g>
+          </g>
+        </g>
+        <g id="_Group_310" data-name="&lt;Group&gt;">
+          <g id="_Group_311" data-name="&lt;Group&gt;" class="cls-2">
+            <g id="_Group_312" data-name="&lt;Group&gt;">
+              <polygon id="_Path_216" data-name="&lt;Path&gt;" class="cls-22" points="445.39 519.3 445.371 523.161 428.889 532.74 428.908 528.878 445.39 519.3"/>
+            </g>
+            <g id="_Group_313" data-name="&lt;Group&gt;">
+              <polygon id="_Path_217" data-name="&lt;Path&gt;" class="cls-23" points="428.908 528.878 428.889 532.74 417.373 526.091 417.393 522.229 428.908 528.878"/>
+            </g>
+            <g id="_Group_314" data-name="&lt;Group&gt;">
+              <polygon id="_Path_218" data-name="&lt;Path&gt;" class="cls-24" points="445.39 519.3 428.908 528.878 417.393 522.229 433.875 512.651 445.39 519.3"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="house-12" data-name="house">
+        <g id="_Group_315" data-name="&lt;Group&gt;">
+          <g id="_Group_316" data-name="&lt;Group&gt;" class="cls-2">
+            <g id="_Group_317" data-name="&lt;Group&gt;">
+              <polygon id="_Path_219" data-name="&lt;Path&gt;" class="cls-22" points="473.132 589.514 473.112 593.375 456.63 602.953 456.65 599.092 473.132 589.514"/>
+            </g>
+            <g id="_Group_318" data-name="&lt;Group&gt;">
+              <polygon id="_Path_220" data-name="&lt;Path&gt;" class="cls-23" points="456.65 599.092 456.63 602.953 445.115 596.305 445.134 592.443 456.65 599.092"/>
+            </g>
+            <g id="_Group_319" data-name="&lt;Group&gt;">
+              <polygon id="_Path_221" data-name="&lt;Path&gt;" class="cls-24" points="473.132 589.514 456.65 599.092 445.134 592.443 461.616 582.865 473.132 589.514"/>
+            </g>
+          </g>
+        </g>
+        <g id="_Group_320" data-name="&lt;Group&gt;">
+          <g id="_Group_321" data-name="&lt;Group&gt;" class="cls-2">
+            <g id="_Group_322" data-name="&lt;Group&gt;">
+              <polygon id="_Path_222" data-name="&lt;Path&gt;" class="cls-11" points="473.124 538.677 473.104 590.037 456.632 599.609 456.651 548.25 473.124 538.677"/>
+            </g>
+            <g id="_Group_323" data-name="&lt;Group&gt;">
+              <polygon id="_Path_223" data-name="&lt;Path&gt;" class="cls-25" points="456.651 548.25 456.632 599.609 445.123 592.965 445.142 541.605 456.651 548.25"/>
+            </g>
+            <g id="_Group_324" data-name="&lt;Group&gt;">
+              <polygon id="_Path_224" data-name="&lt;Path&gt;" class="cls-24" points="473.124 538.677 456.651 548.25 445.142 541.605 461.615 532.032 473.124 538.677"/>
+            </g>
+          </g>
+        </g>
+        <g id="_Group_325" data-name="&lt;Group&gt;">
+          <g id="_Group_326" data-name="&lt;Group&gt;" class="cls-2">
+            <g id="_Group_327" data-name="&lt;Group&gt;">
+              <polygon id="_Path_225" data-name="&lt;Path&gt;" class="cls-22" points="473.132 535.316 473.112 539.178 456.63 548.756 456.65 544.894 473.132 535.316"/>
+            </g>
+            <g id="_Group_328" data-name="&lt;Group&gt;">
+              <polygon id="_Path_226" data-name="&lt;Path&gt;" class="cls-23" points="456.65 544.894 456.63 548.756 445.115 542.108 445.134 538.246 456.65 544.894"/>
+            </g>
+            <g id="_Group_329" data-name="&lt;Group&gt;">
+              <polygon id="_Path_227" data-name="&lt;Path&gt;" class="cls-24" points="473.132 535.316 456.65 544.894 445.134 538.246 461.616 528.668 473.132 535.316"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="tree-12" data-name="tree">
+        <polygon id="_Path_228" data-name="&lt;Path&gt;" class="cls-21" points="485.681 565.61 485.681 584.314 492.338 580.479 485.681 565.61"/>
+        <polygon id="_Path_229" data-name="&lt;Path&gt;" class="cls-13" points="485.681 565.61 485.681 584.314 479.025 580.477 485.681 565.61"/>
+      </g>
+      <g id="tree-13" data-name="tree">
+        <polygon id="_Path_230" data-name="&lt;Path&gt;" class="cls-21" points="220.152 493.979 220.152 512.683 226.809 508.849 220.152 493.979"/>
+        <polygon id="_Path_231" data-name="&lt;Path&gt;" class="cls-13" points="220.152 493.979 220.152 512.683 213.496 508.846 220.152 493.979"/>
+      </g>
+      <g id="tree-14" data-name="tree">
+        <polygon id="_Path_232" data-name="&lt;Path&gt;" class="cls-21" points="145.138 499.955 145.138 527.579 154.97 521.916 145.138 499.955"/>
+        <polygon id="_Path_233" data-name="&lt;Path&gt;" class="cls-13" points="145.138 499.955 145.138 527.579 135.307 521.913 145.138 499.955"/>
+      </g>
+      <g id="house-13" data-name="house">
+        <g id="_Group_330" data-name="&lt;Group&gt;">
+          <g id="_Group_331" data-name="&lt;Group&gt;">
+            <g id="_Group_332" data-name="&lt;Group&gt;" class="cls-2">
+              <g id="_Group_333" data-name="&lt;Group&gt;">
+                <polygon id="_Path_234" data-name="&lt;Path&gt;" class="cls-22" points="510.879 191.628 511.686 368.75 462.452 397.362 461.645 220.24 510.879 191.628"/>
+              </g>
+              <g id="_Group_334" data-name="&lt;Group&gt;">
+                <polygon id="_Path_235" data-name="&lt;Path&gt;" class="cls-23" points="461.645 220.24 462.452 397.362 412.895 368.751 412.088 191.629 461.645 220.24"/>
+              </g>
+              <g id="_Group_335" data-name="&lt;Group&gt;">
+                <polygon id="_Path_236" data-name="&lt;Path&gt;" class="cls-24" points="510.879 191.628 461.645 220.24 412.088 191.629 461.323 163.017 510.879 191.628"/>
+              </g>
+            </g>
+          </g>
+          <g id="_Group_336" data-name="&lt;Group&gt;">
+            <g id="_Group_337" data-name="&lt;Group&gt;" class="cls-2">
+              <g id="_Group_338" data-name="&lt;Group&gt;">
+                <polygon id="_Path_237" data-name="&lt;Path&gt;" class="cls-11" points="484.532 181.759 484.505 194.497 461.516 207.856 461.543 195.119 484.532 181.759"/>
+              </g>
+              <g id="_Group_339" data-name="&lt;Group&gt;">
+                <polygon id="_Path_238" data-name="&lt;Path&gt;" class="cls-26" points="461.543 195.119 461.516 207.856 438.376 194.497 438.404 181.759 461.543 195.119"/>
+              </g>
+              <g id="_Group_340" data-name="&lt;Group&gt;">
+                <polygon id="_Path_239" data-name="&lt;Path&gt;" class="cls-27" points="484.532 181.759 461.543 195.119 438.404 181.759 461.393 168.399 484.532 181.759"/>
+              </g>
+            </g>
+          </g>
+          <g id="_Group_341" data-name="&lt;Group&gt;">
+            <g id="_Group_342" data-name="&lt;Group&gt;" class="cls-2">
+              <g id="_Group_343" data-name="&lt;Group&gt;">
+                <polygon id="_Path_240" data-name="&lt;Path&gt;" class="cls-23" points="414.883 215.684 415.808 381.089 441.032 395.838 440.107 230.434 414.883 215.684"/>
+              </g>
+              <g id="_Group_344" data-name="&lt;Group&gt;">
+                <polygon id="_Path_241" data-name="&lt;Path&gt;" class="cls-22" points="440.107 230.434 441.032 395.838 450.423 390.417 449.498 225.012 440.107 230.434"/>
+              </g>
+              <g id="_Group_345" data-name="&lt;Group&gt;">
+                <polygon id="_Path_242" data-name="&lt;Path&gt;" class="cls-24" points="414.883 215.684 440.107 230.434 449.498 225.012 424.273 210.263 414.883 215.684"/>
+              </g>
+            </g>
+          </g>
+          <g id="_Group_346" data-name="&lt;Group&gt;">
+            <g id="_Group_347" data-name="&lt;Group&gt;" class="cls-2">
+              <g id="_Group_348" data-name="&lt;Group&gt;">
+                <polygon id="_Path_243" data-name="&lt;Path&gt;" class="cls-28" points="470.47 151.64 470.46 182.269 461.478 187.489 461.489 156.86 470.47 151.64"/>
+              </g>
+              <g id="_Group_349" data-name="&lt;Group&gt;">
+                <polygon id="_Path_244" data-name="&lt;Path&gt;" class="cls-29" points="461.489 156.86 461.478 187.489 452.438 182.269 452.449 151.64 461.489 156.86"/>
+              </g>
+              <g id="_Group_350" data-name="&lt;Group&gt;">
+                <polygon id="_Path_245" data-name="&lt;Path&gt;" class="cls-24" points="470.47 151.64 461.489 156.86 452.449 151.64 461.43 146.421 470.47 151.64"/>
+              </g>
+            </g>
+          </g>
+          <g id="_Group_351" data-name="&lt;Group&gt;">
+            <g id="_Group_352" data-name="&lt;Group&gt;" class="cls-2">
+              <g id="_Group_353" data-name="&lt;Group&gt;">
+                <polygon id="_Path_246" data-name="&lt;Path&gt;" class="cls-11" points="474.861 146.136 474.845 153.536 461.49 161.297 461.506 153.897 474.861 146.136"/>
+              </g>
+              <g id="_Group_354" data-name="&lt;Group&gt;">
+                <polygon id="_Path_247" data-name="&lt;Path&gt;" class="cls-26" points="461.506 153.897 461.49 161.297 448.047 153.536 448.063 146.136 461.506 153.897"/>
+              </g>
+              <g id="_Group_355" data-name="&lt;Group&gt;">
+                <polygon id="_Path_248" data-name="&lt;Path&gt;" class="cls-27" points="474.861 146.136 461.506 153.897 448.063 146.136 461.418 138.375 474.861 146.136"/>
+              </g>
+            </g>
+          </g>
+          <g id="_Group_356" data-name="&lt;Group&gt;">
+            <g id="_Group_357" data-name="&lt;Group&gt;" class="cls-2">
+              <g id="_Group_358" data-name="&lt;Group&gt;">
+                <polygon id="_Path_249" data-name="&lt;Path&gt;" class="cls-28" points="467.183 109.716 467.176 146.276 461.469 149.593 461.476 113.032 467.183 109.716"/>
+              </g>
+              <g id="_Group_359" data-name="&lt;Group&gt;">
+                <polygon id="_Path_250" data-name="&lt;Path&gt;" class="cls-29" points="461.476 113.032 461.469 149.593 455.725 146.276 455.732 109.716 461.476 113.032"/>
+              </g>
+              <g id="_Group_360" data-name="&lt;Group&gt;">
+                <polygon id="_Path_251" data-name="&lt;Path&gt;" class="cls-28" points="467.183 109.716 461.476 113.032 455.732 109.716 461.439 106.399 467.183 109.716"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="_Group_361" data-name="&lt;Group&gt;">
+          <g id="_Group_362" data-name="&lt;Group&gt;" class="cls-2">
+            <g id="_Group_363" data-name="&lt;Group&gt;">
+              <polygon id="_Path_252" data-name="&lt;Path&gt;" class="cls-22" points="512.659 367.224 512.62 375.404 477.264 395.941 477.303 387.761 512.659 367.224"/>
+            </g>
+            <g id="_Group_364" data-name="&lt;Group&gt;">
+              <polygon id="_Path_253" data-name="&lt;Path&gt;" class="cls-23" points="477.303 387.761 477.264 395.941 471.058 392.357 471.097 384.177 477.303 387.761"/>
+            </g>
+            <g id="_Group_365" data-name="&lt;Group&gt;">
+              <polygon id="_Path_254" data-name="&lt;Path&gt;" class="cls-24" points="512.659 367.224 477.303 387.761 471.097 384.177 506.453 363.641 512.659 367.224"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="house-14" data-name="house">
+        <g id="_Group_366" data-name="&lt;Group&gt;">
+          <g id="_Group_367" data-name="&lt;Group&gt;">
+            <g id="_Group_368" data-name="&lt;Group&gt;">
+              <g id="_Group_369" data-name="&lt;Group&gt;" class="cls-2">
+                <g id="_Group_370" data-name="&lt;Group&gt;">
+                  <polygon id="_Path_255" data-name="&lt;Path&gt;" class="cls-22" points="209.826 413.878 209.804 504.388 190.895 515.377 190.917 424.866 209.826 413.878"/>
+                </g>
+                <g id="_Group_371" data-name="&lt;Group&gt;">
+                  <polygon id="_Path_256" data-name="&lt;Path&gt;" class="cls-23" points="190.917 424.866 190.895 515.377 171.863 504.389 171.885 413.878 190.917 424.866"/>
+                </g>
+                <g id="_Group_372" data-name="&lt;Group&gt;">
+                  <polygon id="_Path_257" data-name="&lt;Path&gt;" class="cls-24" points="209.826 413.878 190.917 424.866 171.885 413.878 190.794 402.89 209.826 413.878"/>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="_Group_373" data-name="&lt;Group&gt;">
+            <g id="_Group_374" data-name="&lt;Group&gt;">
+              <g id="_Group_375" data-name="&lt;Group&gt;" class="cls-2">
+                <g id="_Group_376" data-name="&lt;Group&gt;">
+                  <polygon id="_Path_258" data-name="&lt;Path&gt;" class="cls-22" points="181.16 478.435 181.137 509.547 168.341 517.007 168.363 485.895 181.16 478.435"/>
+                </g>
+                <g id="_Group_377" data-name="&lt;Group&gt;">
+                  <polygon id="_Path_259" data-name="&lt;Path&gt;" class="cls-23" points="168.363 485.895 168.341 517.007 159.174 511.714 159.197 480.602 168.363 485.895"/>
+                </g>
+                <g id="_Group_378" data-name="&lt;Group&gt;">
+                  <polygon id="_Path_260" data-name="&lt;Path&gt;" class="cls-24" points="181.16 478.435 168.363 485.895 159.197 480.602 171.993 473.143 181.16 478.435"/>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="_Group_379" data-name="&lt;Group&gt;">
+            <g id="_Group_380" data-name="&lt;Group&gt;">
+              <g id="_Group_381" data-name="&lt;Group&gt;" class="cls-2">
+                <g id="_Group_382" data-name="&lt;Group&gt;">
+                  <polygon id="_Path_261" data-name="&lt;Path&gt;" class="cls-11" points="179.366 408.167 179.38 414.542 190.887 421.229 190.873 414.853 179.366 408.167"/>
+                </g>
+                <g id="_Group_383" data-name="&lt;Group&gt;">
+                  <polygon id="_Path_262" data-name="&lt;Path&gt;" class="cls-26" points="190.873 414.853 190.887 421.229 202.468 414.542 202.455 408.167 190.873 414.853"/>
+                </g>
+                <g id="_Group_384" data-name="&lt;Group&gt;">
+                  <polygon id="_Path_263" data-name="&lt;Path&gt;" class="cls-27" points="179.366 408.167 190.873 414.853 202.455 408.167 190.948 401.48 179.366 408.167"/>
+                </g>
+              </g>
+            </g>
+            <g id="_Group_385" data-name="&lt;Group&gt;">
+              <g id="_Group_386" data-name="&lt;Group&gt;" class="cls-2">
+                <g id="_Group_387" data-name="&lt;Group&gt;">
+                  <polygon id="_Path_264" data-name="&lt;Path&gt;" class="cls-28" points="188.05 372.108 188.053 408.366 190.91 410.026 190.906 373.767 188.05 372.108"/>
+                </g>
+                <g id="_Group_388" data-name="&lt;Group&gt;">
+                  <polygon id="_Path_265" data-name="&lt;Path&gt;" class="cls-29" points="190.906 373.767 190.91 410.026 193.785 408.366 193.781 372.108 190.906 373.767"/>
+                </g>
+                <g id="_Group_389" data-name="&lt;Group&gt;">
+                  <polygon id="_Path_266" data-name="&lt;Path&gt;" class="cls-28" points="188.05 372.108 190.906 373.767 193.781 372.108 190.925 370.448 188.05 372.108"/>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="_Group_390" data-name="&lt;Group&gt;">
+          <g id="_Group_391" data-name="&lt;Group&gt;">
+            <g id="_Group_392" data-name="&lt;Group&gt;" class="cls-2">
+              <g id="_Group_393" data-name="&lt;Group&gt;">
+                <polygon id="_Path_267" data-name="&lt;Path&gt;" class="cls-22" points="201.118 507.287 201.091 517.006 184.769 526.492 184.797 516.772 201.118 507.287"/>
+              </g>
+              <g id="_Group_394" data-name="&lt;Group&gt;">
+                <polygon id="_Path_268" data-name="&lt;Path&gt;" class="cls-23" points="184.797 516.772 184.769 526.492 168.341 517.007 168.177 507.187 184.797 516.772"/>
+              </g>
+              <g id="_Group_395" data-name="&lt;Group&gt;">
+                <polygon id="_Path_269" data-name="&lt;Path&gt;" class="cls-24" points="201.118 507.287 184.797 516.772 168.368 507.287 184.69 497.802 201.118 507.287"/>
+              </g>
+            </g>
+          </g>
+          <g id="_Group_396" data-name="&lt;Group&gt;">
+            <g id="_Group_397" data-name="&lt;Group&gt;" class="cls-2">
+              <g id="_Group_398" data-name="&lt;Group&gt;">
+                <polygon id="_Path_270" data-name="&lt;Path&gt;" class="cls-23" points="190.184 514.563 190.191 528.783 191.657 529.636 191.651 515.415 190.184 514.563"/>
+              </g>
+              <g id="_Group_399" data-name="&lt;Group&gt;">
+                <polygon id="_Path_271" data-name="&lt;Path&gt;" class="cls-22" points="191.651 515.415 191.657 529.636 193.133 528.783 193.126 514.563 191.651 515.415"/>
+              </g>
+              <g id="_Group_400" data-name="&lt;Group&gt;">
+                <polygon id="_Path_272" data-name="&lt;Path&gt;" class="cls-28" points="190.184 514.563 191.651 515.415 193.126 514.563 191.66 513.711 190.184 514.563"/>
+              </g>
+            </g>
+          </g>
+          <g id="_Group_401" data-name="&lt;Group&gt;">
+            <g id="_Group_402" data-name="&lt;Group&gt;" class="cls-2">
+              <g id="_Group_403" data-name="&lt;Group&gt;">
+                <polygon id="_Path_273" data-name="&lt;Path&gt;" class="cls-23" points="194.951 511.811 194.958 526.031 196.424 526.883 196.418 512.663 194.951 511.811"/>
+              </g>
+              <g id="_Group_404" data-name="&lt;Group&gt;">
+                <polygon id="_Path_274" data-name="&lt;Path&gt;" class="cls-22" points="196.418 512.663 196.424 526.883 197.9 526.031 197.894 511.811 196.418 512.663"/>
+              </g>
+              <g id="_Group_405" data-name="&lt;Group&gt;">
+                <polygon id="_Path_275" data-name="&lt;Path&gt;" class="cls-28" points="194.951 511.811 196.418 512.663 197.894 511.811 196.427 510.959 194.951 511.811"/>
+              </g>
+            </g>
+          </g>
+          <g id="_Group_406" data-name="&lt;Group&gt;">
+            <g id="_Group_407" data-name="&lt;Group&gt;" class="cls-2">
+              <g id="_Group_408" data-name="&lt;Group&gt;">
+                <polygon id="_Path_276" data-name="&lt;Path&gt;" class="cls-22" points="198.422 511.409 198.422 516.02 191.011 520.36 191.011 515.749 198.422 511.409"/>
+              </g>
+              <g id="_Group_409" data-name="&lt;Group&gt;">
+                <polygon id="_Path_277" data-name="&lt;Path&gt;" class="cls-23" points="191.011 515.749 191.011 520.36 180.368 514.215 180.368 509.604 191.011 515.749"/>
+              </g>
+              <g id="_Group_410" data-name="&lt;Group&gt;">
+                <polygon id="_Path_278" data-name="&lt;Path&gt;" class="cls-24" points="198.422 511.409 191.011 515.749 180.368 509.604 187.778 505.264 198.422 511.409"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="house-15" data-name="house">
+        <g id="_Group_411" data-name="&lt;Group&gt;">
+          <g id="_Group_412" data-name="&lt;Group&gt;" class="cls-2">
+            <g id="_Group_413" data-name="&lt;Group&gt;">
+              <polygon id="_Path_279" data-name="&lt;Path&gt;" class="cls-22" points="389.294 396.699 389.243 406.681 346.638 431.441 346.689 421.458 389.294 396.699"/>
+            </g>
+            <g id="_Group_414" data-name="&lt;Group&gt;">
+              <polygon id="_Path_280" data-name="&lt;Path&gt;" class="cls-23" points="346.689 421.458 346.638 431.441 316.87 414.254 316.921 404.272 346.689 421.458"/>
+            </g>
+            <g id="_Group_415" data-name="&lt;Group&gt;">
+              <polygon id="_Path_281" data-name="&lt;Path&gt;" class="cls-24" points="389.294 396.699 346.689 421.458 316.921 404.272 359.526 379.513 389.294 396.699"/>
+            </g>
+          </g>
+        </g>
+        <g id="_Group_416" data-name="&lt;Group&gt;">
+          <g id="_Group_417" data-name="&lt;Group&gt;" class="cls-2">
+            <g id="_Group_418" data-name="&lt;Group&gt;">
+              <polygon id="_Path_282" data-name="&lt;Path&gt;" class="cls-11" points="380.106 299.619 380.068 398.755 348.273 417.232 348.311 318.096 380.106 299.619"/>
+            </g>
+            <g id="_Group_419" data-name="&lt;Group&gt;">
+              <polygon id="_Path_283" data-name="&lt;Path&gt;" class="cls-25" points="348.311 318.096 348.273 417.232 326.058 404.406 326.096 305.27 348.311 318.096"/>
+            </g>
+            <g id="_Group_420" data-name="&lt;Group&gt;">
+              <polygon id="_Path_284" data-name="&lt;Path&gt;" class="cls-24" points="380.106 299.619 348.311 318.096 326.096 305.27 357.891 286.793 380.106 299.619"/>
+            </g>
+          </g>
+        </g>
+        <g id="_Group_421" data-name="&lt;Group&gt;">
+          <g id="_Group_422" data-name="&lt;Group&gt;" class="cls-2">
+            <g id="_Group_423" data-name="&lt;Group&gt;">
+              <polygon id="_Path_285" data-name="&lt;Path&gt;" class="cls-22" points="380.122 293.131 380.084 300.585 348.27 319.074 348.308 311.62 380.122 293.131"/>
+            </g>
+            <g id="_Group_424" data-name="&lt;Group&gt;">
+              <polygon id="_Path_286" data-name="&lt;Path&gt;" class="cls-23" points="348.308 311.62 348.27 319.074 326.042 306.24 326.08 298.786 348.308 311.62"/>
+            </g>
+            <g id="_Group_425" data-name="&lt;Group&gt;">
+              <polygon id="_Path_287" data-name="&lt;Path&gt;" class="cls-24" points="380.122 293.131 348.308 311.62 326.08 298.786 357.894 280.298 380.122 293.131"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="house-16" data-name="house">
+        <g id="_Group_426" data-name="&lt;Group&gt;">
+          <g id="_Group_427" data-name="&lt;Group&gt;" class="cls-2">
+            <g id="_Group_428" data-name="&lt;Group&gt;">
+              <polygon id="_Path_288" data-name="&lt;Path&gt;" class="cls-22" points="328.535 517.8 328.196 592.236 348.887 604.26 349.226 529.824 328.535 517.8"/>
+            </g>
+            <g id="_Group_429" data-name="&lt;Group&gt;">
+              <polygon id="_Path_289" data-name="&lt;Path&gt;" class="cls-23" points="349.226 529.824 348.887 604.26 369.713 592.236 370.053 517.8 349.226 529.824"/>
+            </g>
+            <g id="_Group_430" data-name="&lt;Group&gt;">
+              <polygon id="_Path_290" data-name="&lt;Path&gt;" class="cls-24" points="328.535 517.8 349.226 529.824 370.053 517.8 349.362 505.776 328.535 517.8"/>
+            </g>
+          </g>
+        </g>
+        <g id="_Group_431" data-name="&lt;Group&gt;">
+          <g id="_Group_432" data-name="&lt;Group&gt;" class="cls-2">
+            <g id="_Group_433" data-name="&lt;Group&gt;">
+              <polygon id="_Path_291" data-name="&lt;Path&gt;" class="cls-34" points="339.608 513.653 339.619 519.005 349.281 524.62 349.269 519.267 339.608 513.653"/>
+            </g>
+            <g id="_Group_434" data-name="&lt;Group&gt;">
+              <polygon id="_Path_292" data-name="&lt;Path&gt;" class="cls-33" points="349.269 519.267 349.281 524.62 359.005 519.006 358.993 513.653 349.269 519.267"/>
+            </g>
+            <g id="_Group_435" data-name="&lt;Group&gt;">
+              <polygon id="_Path_293" data-name="&lt;Path&gt;" class="cls-35" points="339.608 513.653 349.269 519.267 358.993 513.653 349.332 508.038 339.608 513.653"/>
+            </g>
+          </g>
+        </g>
+        <g id="_Group_436" data-name="&lt;Group&gt;">
+          <g id="_Group_437" data-name="&lt;Group&gt;" class="cls-2">
+            <g id="_Group_438" data-name="&lt;Group&gt;">
+              <polygon id="_Path_294" data-name="&lt;Path&gt;" class="cls-23" points="368.878 527.91 368.489 597.421 357.889 603.62 358.277 534.108 368.878 527.91"/>
+            </g>
+            <g id="_Group_439" data-name="&lt;Group&gt;">
+              <polygon id="_Path_295" data-name="&lt;Path&gt;" class="cls-22" points="358.277 534.108 357.889 603.62 353.942 601.342 354.331 531.83 358.277 534.108"/>
+            </g>
+            <g id="_Group_440" data-name="&lt;Group&gt;">
+              <polygon id="_Path_296" data-name="&lt;Path&gt;" class="cls-24" points="368.878 527.91 358.277 534.108 354.331 531.83 364.932 525.631 368.878 527.91"/>
+            </g>
+          </g>
+        </g>
+        <g id="_Group_441" data-name="&lt;Group&gt;">
+          <g id="_Group_442" data-name="&lt;Group&gt;" class="cls-2">
+            <g id="_Group_443" data-name="&lt;Group&gt;">
+              <polygon id="_Path_297" data-name="&lt;Path&gt;" class="cls-28" points="345.517 500.995 345.522 513.867 349.296 516.06 349.292 503.189 345.517 500.995"/>
+            </g>
+            <g id="_Group_444" data-name="&lt;Group&gt;">
+              <polygon id="_Path_298" data-name="&lt;Path&gt;" class="cls-29" points="349.292 503.189 349.296 516.06 353.095 513.867 353.091 500.995 349.292 503.189"/>
+            </g>
+            <g id="_Group_445" data-name="&lt;Group&gt;">
+              <polygon id="_Path_299" data-name="&lt;Path&gt;" class="cls-24" points="345.517 500.995 349.292 503.189 353.091 500.995 349.316 498.801 345.517 500.995"/>
+            </g>
+          </g>
+        </g>
+        <g id="_Group_446" data-name="&lt;Group&gt;">
+          <g id="_Group_447" data-name="&lt;Group&gt;" class="cls-2">
+            <g id="_Group_448" data-name="&lt;Group&gt;">
+              <polygon id="_Path_300" data-name="&lt;Path&gt;" class="cls-34" points="343.672 498.682 343.679 501.792 349.291 505.053 349.285 501.943 343.672 498.682"/>
+            </g>
+            <g id="_Group_449" data-name="&lt;Group&gt;">
+              <polygon id="_Path_301" data-name="&lt;Path&gt;" class="cls-33" points="349.285 501.943 349.291 505.053 354.941 501.792 354.934 498.682 349.285 501.943"/>
+            </g>
+            <g id="_Group_450" data-name="&lt;Group&gt;">
+              <polygon id="_Path_302" data-name="&lt;Path&gt;" class="cls-35" points="343.672 498.682 349.285 501.943 354.934 498.682 349.321 495.42 343.672 498.682"/>
+            </g>
+          </g>
+        </g>
+        <g id="_Group_451" data-name="&lt;Group&gt;">
+          <g id="_Group_452" data-name="&lt;Group&gt;" class="cls-2">
+            <g id="_Group_453" data-name="&lt;Group&gt;">
+              <polygon id="_Path_303" data-name="&lt;Path&gt;" class="cls-28" points="346.899 483.376 346.902 498.741 349.3 500.135 349.297 484.77 346.899 483.376"/>
+            </g>
+            <g id="_Group_454" data-name="&lt;Group&gt;">
+              <polygon id="_Path_304" data-name="&lt;Path&gt;" class="cls-29" points="349.297 484.77 349.3 500.135 351.714 498.741 351.711 483.376 349.297 484.77"/>
+            </g>
+            <g id="_Group_455" data-name="&lt;Group&gt;">
+              <polygon id="_Path_305" data-name="&lt;Path&gt;" class="cls-28" points="346.899 483.376 349.297 484.77 351.711 483.376 349.313 481.982 346.899 483.376"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="house-17" data-name="house">
+        <g id="_Group_456" data-name="&lt;Group&gt;">
+          <g id="_Group_457" data-name="&lt;Group&gt;" class="cls-2">
+            <g id="_Group_458" data-name="&lt;Group&gt;">
+              <polygon id="_Path_306" data-name="&lt;Path&gt;" class="cls-22" points="402.092 417.94 402.053 425.598 369.368 444.592 369.407 436.934 402.092 417.94"/>
+            </g>
+            <g id="_Group_459" data-name="&lt;Group&gt;">
+              <polygon id="_Path_307" data-name="&lt;Path&gt;" class="cls-23" points="369.407 436.934 369.368 444.592 346.531 431.408 346.57 423.749 369.407 436.934"/>
+            </g>
+            <g id="_Group_460" data-name="&lt;Group&gt;">
+              <polygon id="_Path_308" data-name="&lt;Path&gt;" class="cls-24" points="402.092 417.94 369.407 436.934 346.57 423.749 379.255 404.755 402.092 417.94"/>
+            </g>
+          </g>
+        </g>
+        <g id="_Group_461" data-name="&lt;Group&gt;">
+          <g id="_Group_462" data-name="&lt;Group&gt;" class="cls-2">
+            <g id="_Group_463" data-name="&lt;Group&gt;">
+              <polygon id="_Path_309" data-name="&lt;Path&gt;" class="cls-22" points="396.311 395.207 396.28 419.256 370.396 434.298 370.427 410.248 396.311 395.207"/>
+            </g>
+            <g id="_Group_464" data-name="&lt;Group&gt;">
+              <polygon id="_Path_310" data-name="&lt;Path&gt;" class="cls-23" points="370.427 410.248 370.396 434.298 352.312 423.857 352.343 399.807 370.427 410.248"/>
+            </g>
+            <g id="_Group_465" data-name="&lt;Group&gt;">
+              <polygon id="_Path_311" data-name="&lt;Path&gt;" class="cls-24" points="396.311 395.207 370.427 410.248 352.343 399.807 378.226 384.765 396.311 395.207"/>
+            </g>
+          </g>
+        </g>
+        <g id="_Group_466" data-name="&lt;Group&gt;">
+          <g id="_Group_467" data-name="&lt;Group&gt;" class="cls-2">
+            <g id="_Group_468" data-name="&lt;Group&gt;">
+              <polygon id="_Path_312" data-name="&lt;Path&gt;" class="cls-22" points="385.669 410.239 385.707 412.446 378.111 416.861 378.073 414.653 385.669 410.239"/>
+            </g>
+            <g id="_Group_469" data-name="&lt;Group&gt;">
+              <polygon id="_Path_313" data-name="&lt;Path&gt;" class="cls-23" points="378.073 414.653 378.111 416.861 370.389 412.446 370.338 410.193 378.073 414.653"/>
+            </g>
+            <g id="_Group_470" data-name="&lt;Group&gt;">
+              <polygon id="_Path_314" data-name="&lt;Path&gt;" class="cls-24" points="385.669 410.239 378.073 414.653 370.427 410.239 378.023 405.825 385.669 410.239"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="house-18" data-name="house">
+        <g id="_Group_471" data-name="&lt;Group&gt;">
+          <g id="_Group_472" data-name="&lt;Group&gt;" class="cls-2">
+            <g id="_Group_473" data-name="&lt;Group&gt;">
+              <polygon id="_Path_315" data-name="&lt;Path&gt;" class="cls-13" points="408.019 610.684 381.861 625.886 355.536 610.687 381.694 595.485 408.019 610.684"/>
+            </g>
+          </g>
+        </g>
+        <g id="_Group_474" data-name="&lt;Group&gt;">
+          <g id="_Group_475" data-name="&lt;Group&gt;" class="cls-2">
+            <g id="_Group_476" data-name="&lt;Group&gt;">
+              <polygon id="_Path_316" data-name="&lt;Path&gt;" class="cls-22" points="400.171 572.245 400.149 610.818 381.821 621.469 381.843 582.896 400.171 572.245"/>
+            </g>
+            <g id="_Group_477" data-name="&lt;Group&gt;">
+              <polygon id="_Path_317" data-name="&lt;Path&gt;" class="cls-23" points="381.843 582.896 381.821 621.469 363.373 610.818 363.395 572.245 381.843 582.896"/>
+            </g>
+            <g id="_Group_478" data-name="&lt;Group&gt;">
+              <polygon id="_Path_318" data-name="&lt;Path&gt;" class="cls-24" points="400.171 572.245 381.843 582.896 363.395 572.245 381.723 561.594 400.171 572.245"/>
+            </g>
+          </g>
+        </g>
+        <g id="_Group_479" data-name="&lt;Group&gt;">
+          <g id="_Group_480" data-name="&lt;Group&gt;" class="cls-2">
+            <g id="_Group_481" data-name="&lt;Group&gt;">
+              <polygon id="_Path_319" data-name="&lt;Path&gt;" class="cls-30" points="405.205 572.572 405.2 576.725 381.844 590.298 381.849 586.145 405.205 572.572"/>
+            </g>
+            <g id="_Group_482" data-name="&lt;Group&gt;">
+              <polygon id="_Path_320" data-name="&lt;Path&gt;" class="cls-23" points="381.849 586.145 381.844 590.298 358.338 576.727 358.344 572.574 381.849 586.145"/>
+            </g>
+            <g id="_Group_483" data-name="&lt;Group&gt;">
+              <polygon id="_Path_321" data-name="&lt;Path&gt;" class="cls-24" points="405.205 572.572 381.849 586.145 358.344 572.574 381.7 559.001 405.205 572.572"/>
+            </g>
+          </g>
+        </g>
+        <g id="_Group_484" data-name="&lt;Group&gt;">
+          <g id="_Group_485" data-name="&lt;Group&gt;">
+            <g id="_Group_486" data-name="&lt;Group&gt;" class="cls-2">
+              <g id="_Group_487" data-name="&lt;Group&gt;">
+                <polygon id="_Path_322" data-name="&lt;Path&gt;" class="cls-30" points="405.205 585.308 405.2 589.462 381.844 603.035 381.849 598.881 405.205 585.308"/>
+              </g>
+              <g id="_Group_488" data-name="&lt;Group&gt;">
+                <polygon id="_Path_323" data-name="&lt;Path&gt;" class="cls-23" points="381.849 598.881 381.844 603.035 358.338 589.464 358.344 585.31 381.849 598.881"/>
+              </g>
+            </g>
+          </g>
+          <polygon id="_Path_324" data-name="&lt;Path&gt;" class="cls-24" points="363.39 585.275 363.391 582.308 360.821 583.792 358.344 585.31 381.849 598.881 381.849 595.932 363.39 585.275"/>
+          <polygon id="_Path_325" data-name="&lt;Path&gt;" class="cls-31" points="402.728 583.789 402.725 583.791 400.158 582.308 400.158 585.284 381.849 595.932 381.849 598.881 405.205 585.308 402.728 583.789"/>
+        </g>
+        <g id="_Group_489" data-name="&lt;Group&gt;">
+          <g id="_Group_490" data-name="&lt;Group&gt;">
+            <g id="_Group_491" data-name="&lt;Group&gt;" class="cls-2">
+              <g id="_Group_492" data-name="&lt;Group&gt;">
+                <polygon id="_Path_326" data-name="&lt;Path&gt;" class="cls-30" points="405.205 595.672 405.2 599.825 381.844 613.398 381.849 609.245 405.205 595.672"/>
+              </g>
+              <g id="_Group_493" data-name="&lt;Group&gt;">
+                <polygon id="_Path_327" data-name="&lt;Path&gt;" class="cls-23" points="381.849 609.245 381.844 613.398 358.338 599.827 358.344 595.674 381.849 609.245"/>
+              </g>
+            </g>
+          </g>
+          <polygon id="_Path_328" data-name="&lt;Path&gt;" class="cls-24" points="363.39 595.638 363.391 592.672 360.821 594.155 358.344 595.674 381.849 609.245 381.849 606.296 363.39 595.638"/>
+          <polygon id="_Path_329" data-name="&lt;Path&gt;" class="cls-31" points="402.728 594.153 402.725 594.154 400.158 592.672 400.158 595.647 381.849 606.296 381.849 609.245 405.205 595.672 402.728 594.153"/>
+        </g>
+      </g>
+      <g id="house-19" data-name="house">
+        <g id="_Group_494" data-name="&lt;Group&gt;">
+          <g id="_Group_495" data-name="&lt;Group&gt;" class="cls-2">
+            <g id="_Group_496" data-name="&lt;Group&gt;">
+              <polygon id="_Path_330" data-name="&lt;Path&gt;" class="cls-13" points="343.163 612.414 317.005 627.615 290.679 612.416 316.838 597.215 343.163 612.414"/>
+            </g>
+          </g>
+        </g>
+        <g id="_Group_497" data-name="&lt;Group&gt;">
+          <g id="_Group_498" data-name="&lt;Group&gt;" class="cls-2">
+            <g id="_Group_499" data-name="&lt;Group&gt;">
+              <polygon id="_Path_331" data-name="&lt;Path&gt;" class="cls-33" points="335.314 573.975 335.292 612.548 316.964 623.199 316.986 584.626 335.314 573.975"/>
+            </g>
+            <g id="_Group_500" data-name="&lt;Group&gt;">
+              <polygon id="_Path_332" data-name="&lt;Path&gt;" class="cls-34" points="316.986 584.626 316.964 623.199 298.517 612.548 298.538 573.975 316.986 584.626"/>
+            </g>
+            <g id="_Group_501" data-name="&lt;Group&gt;">
+              <polygon id="_Path_333" data-name="&lt;Path&gt;" class="cls-24" points="335.314 573.975 316.986 584.626 298.538 573.975 316.866 563.324 335.314 573.975"/>
+            </g>
+          </g>
+        </g>
+        <g id="_Group_502" data-name="&lt;Group&gt;">
+          <g id="_Group_503" data-name="&lt;Group&gt;" class="cls-2">
+            <g id="_Group_504" data-name="&lt;Group&gt;">
+              <polygon id="_Path_334" data-name="&lt;Path&gt;" class="cls-30" points="340.349 574.301 340.344 578.455 316.987 592.028 316.993 587.874 340.349 574.301"/>
+            </g>
+            <g id="_Group_505" data-name="&lt;Group&gt;">
+              <polygon id="_Path_335" data-name="&lt;Path&gt;" class="cls-23" points="316.993 587.874 316.987 592.028 293.482 578.457 293.487 574.303 316.993 587.874"/>
+            </g>
+            <g id="_Group_506" data-name="&lt;Group&gt;">
+              <polygon id="_Path_336" data-name="&lt;Path&gt;" class="cls-24" points="340.349 574.301 316.993 587.874 293.487 574.303 316.844 560.73 340.349 574.301"/>
+            </g>
+          </g>
+        </g>
+        <g id="_Group_507" data-name="&lt;Group&gt;">
+          <g id="_Group_508" data-name="&lt;Group&gt;">
+            <g id="_Group_509" data-name="&lt;Group&gt;" class="cls-2">
+              <g id="_Group_510" data-name="&lt;Group&gt;">
+                <polygon id="_Path_337" data-name="&lt;Path&gt;" class="cls-30" points="340.349 587.038 340.344 591.191 316.987 604.764 316.993 600.611 340.349 587.038"/>
+              </g>
+              <g id="_Group_511" data-name="&lt;Group&gt;">
+                <polygon id="_Path_338" data-name="&lt;Path&gt;" class="cls-23" points="316.993 600.611 316.987 604.764 293.482 591.194 293.487 587.04 316.993 600.611"/>
+              </g>
+            </g>
+          </g>
+          <polygon id="_Path_339" data-name="&lt;Path&gt;" class="cls-24" points="298.534 587.004 298.534 584.038 295.965 585.521 293.487 587.04 316.993 600.611 316.993 597.662 298.534 587.004"/>
+          <polygon id="_Path_340" data-name="&lt;Path&gt;" class="cls-31" points="337.871 585.519 337.869 585.52 335.302 584.038 335.302 587.013 316.993 597.662 316.993 600.611 340.349 587.038 337.871 585.519"/>
+        </g>
+        <g id="_Group_512" data-name="&lt;Group&gt;">
+          <g id="_Group_513" data-name="&lt;Group&gt;">
+            <g id="_Group_514" data-name="&lt;Group&gt;" class="cls-2">
+              <g id="_Group_515" data-name="&lt;Group&gt;">
+                <polygon id="_Path_341" data-name="&lt;Path&gt;" class="cls-30" points="340.349 597.401 340.344 601.555 316.987 615.128 316.993 610.974 340.349 597.401"/>
+              </g>
+              <g id="_Group_516" data-name="&lt;Group&gt;">
+                <polygon id="_Path_342" data-name="&lt;Path&gt;" class="cls-23" points="316.993 610.974 316.987 615.128 293.482 601.557 293.487 597.403 316.993 610.974"/>
+              </g>
+            </g>
+          </g>
+          <polygon id="_Path_343" data-name="&lt;Path&gt;" class="cls-24" points="298.534 597.368 298.534 594.401 295.965 595.885 293.487 597.403 316.993 610.974 316.993 608.025 298.534 597.368"/>
+          <polygon id="_Path_344" data-name="&lt;Path&gt;" class="cls-31" points="337.871 595.882 337.869 595.884 335.302 594.401 335.302 597.377 316.993 608.025 316.993 610.974 340.349 597.401 337.871 595.882"/>
+        </g>
+      </g>
+      <g id="tree-15" data-name="tree">
+        <polygon id="_Path_345" data-name="&lt;Path&gt;" class="cls-21" points="350.505 605.776 350.505 624.48 357.162 620.645 350.505 605.776"/>
+        <polygon id="_Path_346" data-name="&lt;Path&gt;" class="cls-13" points="350.505 605.776 350.505 624.48 343.849 620.643 350.505 605.776"/>
+      </g>
+      <g id="tree-16" data-name="tree">
+        <polygon id="_Path_347" data-name="&lt;Path&gt;" class="cls-21" points="284.969 483.185 284.969 501.889 291.626 498.054 284.969 483.185"/>
+        <polygon id="_Path_348" data-name="&lt;Path&gt;" class="cls-13" points="284.969 483.185 284.969 501.889 278.312 498.052 284.969 483.185"/>
+      </g>
+      <g id="tree-17" data-name="tree">
+        <polygon id="_Path_349" data-name="&lt;Path&gt;" class="cls-21" points="202.454 544.102 202.454 562.806 209.112 558.971 202.454 544.102"/>
+        <polygon id="_Path_350" data-name="&lt;Path&gt;" class="cls-13" points="202.454 544.102 202.454 562.806 195.798 558.969 202.454 544.102"/>
+      </g>
+      <g id="house-20" data-name="house">
+        <g id="_Group_517" data-name="&lt;Group&gt;">
+          <g id="_Group_518" data-name="&lt;Group&gt;">
+            <g id="_Group_519" data-name="&lt;Group&gt;" class="cls-2">
+              <g id="_Group_520" data-name="&lt;Group&gt;">
+                <polygon id="_Path_351" data-name="&lt;Path&gt;" class="cls-22" points="312.154 553.832 312.115 561.49 279.43 580.485 279.469 572.827 312.154 553.832"/>
+              </g>
+              <g id="_Group_521" data-name="&lt;Group&gt;">
+                <polygon id="_Path_352" data-name="&lt;Path&gt;" class="cls-23" points="279.469 572.827 279.43 580.485 256.594 567.3 256.633 559.642 279.469 572.827"/>
+              </g>
+              <g id="_Group_522" data-name="&lt;Group&gt;">
+                <polygon id="_Path_353" data-name="&lt;Path&gt;" class="cls-24" points="312.154 553.832 279.469 572.827 256.633 559.642 289.318 540.648 312.154 553.832"/>
+              </g>
+            </g>
+          </g>
+          <g id="_Group_523" data-name="&lt;Group&gt;">
+            <g id="_Group_524" data-name="&lt;Group&gt;" class="cls-2">
+              <g id="_Group_525" data-name="&lt;Group&gt;">
+                <polygon id="_Path_354" data-name="&lt;Path&gt;" class="cls-22" points="306.374 531.099 306.343 555.148 280.459 570.19 280.49 546.141 306.374 531.099"/>
+              </g>
+              <g id="_Group_526" data-name="&lt;Group&gt;">
+                <polygon id="_Path_355" data-name="&lt;Path&gt;" class="cls-23" points="280.49 546.141 280.459 570.19 262.374 559.749 262.405 535.7 280.49 546.141"/>
+              </g>
+              <g id="_Group_527" data-name="&lt;Group&gt;">
+                <polygon id="_Path_356" data-name="&lt;Path&gt;" class="cls-24" points="306.374 531.099 280.49 546.141 262.405 535.7 288.289 520.658 306.374 531.099"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="_Group_528" data-name="&lt;Group&gt;">
+          <g id="_Group_529" data-name="&lt;Group&gt;" class="cls-2">
+            <g id="_Group_530" data-name="&lt;Group&gt;">
+              <polygon id="_Path_357" data-name="&lt;Path&gt;" class="cls-22" points="299.292 526.406 299.279 530.929 291.683 535.344 291.695 530.82 299.292 526.406"/>
+            </g>
+            <g id="_Group_531" data-name="&lt;Group&gt;">
+              <polygon id="_Path_358" data-name="&lt;Path&gt;" class="cls-23" points="291.695 530.82 291.683 535.344 284.037 530.929 283.96 526.36 291.695 530.82"/>
+            </g>
+            <g id="_Group_532" data-name="&lt;Group&gt;">
+              <polygon id="_Path_359" data-name="&lt;Path&gt;" class="cls-24" points="299.292 526.406 291.695 530.82 284.049 526.406 291.646 521.991 299.292 526.406"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="tree-18" data-name="tree">
+        <polygon id="_Path_360" data-name="&lt;Path&gt;" class="cls-21" points="548.257 518.927 548.257 546.552 558.09 540.889 548.257 518.927"/>
+        <polygon id="_Path_361" data-name="&lt;Path&gt;" class="cls-13" points="548.257 518.927 548.257 546.552 538.427 540.885 548.257 518.927"/>
+      </g>
+      <g id="tree-19" data-name="tree">
+        <polygon id="_Path_362" data-name="&lt;Path&gt;" class="cls-21" points="417.372 600.63 417.372 628.254 427.205 622.591 417.372 600.63"/>
+        <polygon id="_Path_363" data-name="&lt;Path&gt;" class="cls-13" points="417.372 600.63 417.372 628.254 407.541 622.588 417.372 600.63"/>
+      </g>
+      <g id="event">
+        <g id="_Group_533" data-name="&lt;Group&gt;">
+          <g id="_Group_534" data-name="&lt;Group&gt;">
+            <path id="_Path_364" data-name="&lt;Path&gt;" class="cls-36" d="M432.079,116.036a4.483,4.483,0,0,1-1.511-.262,33.057,33.057,0,0,1,0-62.3,4.5,4.5,0,1,1,3.021,8.478,24.057,24.057,0,0,0,0,45.348,4.5,4.5,0,0,1-1.511,8.74Z"/>
+          </g>
+          <g id="_Group_535" data-name="&lt;Group&gt;">
+            <path id="_Path_365" data-name="&lt;Path&gt;" class="cls-36" d="M442.77,105.557a4.487,4.487,0,0,1-1.511-.262,21.938,21.938,0,0,1,0-41.346,4.5,4.5,0,0,1,3.021,8.478,12.938,12.938,0,0,0,0,24.391,4.5,4.5,0,0,1-1.511,8.74Z"/>
+          </g>
+          <g id="_Group_536" data-name="&lt;Group&gt;">
+            <path id="_Path_366" data-name="&lt;Path&gt;" class="cls-36" d="M426.828,133.905a4.488,4.488,0,0,1-1.511-.263,52.017,52.017,0,0,1,0-98.04,4.5,4.5,0,0,1,3.021,8.478,43.017,43.017,0,0,0,0,81.085,4.5,4.5,0,0,1-1.511,8.74Z"/>
+          </g>
+        </g>
+        <g id="_Group_537" data-name="&lt;Group&gt;">
+          <g id="_Group_538" data-name="&lt;Group&gt;">
+            <path id="_Path_367" data-name="&lt;Path&gt;" class="cls-36" d="M490.836,116.036a4.5,4.5,0,0,1-1.511-8.74,24.057,24.057,0,0,0,0-45.348,4.5,4.5,0,1,1,3.022-8.477,33.056,33.056,0,0,1,0,62.3A4.483,4.483,0,0,1,490.836,116.036Z"/>
+          </g>
+          <g id="_Group_539" data-name="&lt;Group&gt;">
+            <path id="_Path_368" data-name="&lt;Path&gt;" class="cls-36" d="M480.146,105.558a4.5,4.5,0,0,1-1.511-8.74,12.938,12.938,0,0,0,0-24.391,4.5,4.5,0,1,1,3.021-8.478,21.938,21.938,0,0,1,0,41.346A4.488,4.488,0,0,1,480.146,105.558Z"/>
+          </g>
+          <g id="_Group_540" data-name="&lt;Group&gt;">
+            <path id="_Path_369" data-name="&lt;Path&gt;" class="cls-36" d="M496.088,133.905a4.5,4.5,0,0,1-1.511-8.74,43.017,43.017,0,0,0,0-81.085A4.5,4.5,0,0,1,497.6,35.6a52.017,52.017,0,0,1,0,98.04A4.486,4.486,0,0,1,496.088,133.905Z"/>
+          </g>
+        </g>
+        <g id="_Group_541" data-name="&lt;Group&gt;">
+          <circle id="_Path_370" data-name="&lt;Path&gt;" class="cls-36" cx="460.858" cy="84.622" r="10.231"/>
+        </g>
+      </g>
+      <g id="event-2" data-name="event">
+        <g id="_Group_542" data-name="&lt;Group&gt;" class="cls-2">
+          <g id="_Group_543" data-name="&lt;Group&gt;">
+            <path id="_Path_371" data-name="&lt;Path&gt;" class="cls-36" d="M135.352,452.411a12.244,12.244,0,0,0-5.559,9.628c.01,3.537,2.517,4.956,5.595,3.179a12.241,12.241,0,0,0,5.559-9.618C140.937,452.053,138.429,450.634,135.352,452.411Z"/>
+          </g>
+          <g id="_Group_544" data-name="&lt;Group&gt;">
+            <path id="_Path_372" data-name="&lt;Path&gt;" class="cls-36" d="M135.307,436.646c-5.04,2.91-9.558,9.2-11.237,15.648a3.852,3.852,0,0,0-.14,1.027c0,1.156.627,1.887,1.634,1.711a2.456,2.456,0,0,0,.827-.31,5.478,5.478,0,0,0,2.3-3.207,15.735,15.735,0,0,1,6.627-9.231c2.977-1.719,5.65-1.09,6.666,1.557.359.945,1.3,1.125,2.311.542a4.12,4.12,0,0,0,.831-.647c1.273-1.256,1.931-3.248,1.474-4.451C144.894,434.788,140.355,433.731,135.307,436.646Z"/>
+          </g>
+          <g id="_Group_545" data-name="&lt;Group&gt;">
+            <path id="_Path_373" data-name="&lt;Path&gt;" class="cls-36" d="M135.275,425.314c-7.6,4.387-14.409,13.869-16.935,23.58a3.9,3.9,0,0,0-.14,1.027c0,1.156.627,1.887,1.635,1.72a2.49,2.49,0,0,0,.822-.311,5.472,5.472,0,0,0,2.309-3.215c1.845-7.069,6.8-13.973,12.324-17.163s10.511-2.024,12.39,2.895c.36.954,1.3,1.128,2.316.545a4.149,4.149,0,0,0,.826-.64c1.273-1.266,1.931-3.258,1.474-4.461C149.715,422.527,142.873,420.927,135.275,425.314Z"/>
+          </g>
+          <g id="_Group_546" data-name="&lt;Group&gt;">
+            <path id="_Path_374" data-name="&lt;Path&gt;" class="cls-36" d="M135.243,414.126c-11.959,6.9-22.668,21.813-26.657,37.108a4.191,4.191,0,0,0-.14,1.027c0,1.156.635,1.882,1.643,1.706a2.455,2.455,0,0,0,.827-.31,5.441,5.441,0,0,0,2.3-3.2c3.3-12.648,12.16-24.983,22.047-30.692s18.789-3.628,22.149,5.175c.359.945,1.307,1.122,2.314.54a4.087,4.087,0,0,0,.827-.645c1.273-1.256,1.931-3.248,1.474-4.451C157.969,409.73,147.2,407.221,135.243,414.126Z"/>
+          </g>
+        </g>
+      </g>
+      <g id="line">
+        <g id="_Group_547" data-name="&lt;Group&gt;">
+          <path id="_Path_375" data-name="&lt;Path&gt;" class="cls-28" d="M296.035,215.1c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,296.035,215.1Z"/>
+        </g>
+        <g id="_Group_548" data-name="&lt;Group&gt;">
+          <path id="_Path_376" data-name="&lt;Path&gt;" class="cls-28" d="M300.236,212.679c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,300.236,212.679Z"/>
+        </g>
+        <g id="_Group_549" data-name="&lt;Group&gt;">
+          <path id="_Path_377" data-name="&lt;Path&gt;" class="cls-28" d="M304.443,210.25c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,304.443,210.25Z"/>
+        </g>
+        <g id="_Group_550" data-name="&lt;Group&gt;">
+          <path id="_Path_378" data-name="&lt;Path&gt;" class="cls-28" d="M308.644,207.824c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,308.644,207.824Z"/>
+        </g>
+        <g id="_Group_551" data-name="&lt;Group&gt;">
+          <path id="_Path_379" data-name="&lt;Path&gt;" class="cls-28" d="M312.846,205.4c.575-.332,1.042-.065,1.044.595a2.286,2.286,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,312.846,205.4Z"/>
+        </g>
+        <g id="_Group_552" data-name="&lt;Group&gt;">
+          <path id="_Path_380" data-name="&lt;Path&gt;" class="cls-28" d="M317.047,202.973c.575-.332,1.042-.065,1.044.595a2.286,2.286,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,317.047,202.973Z"/>
+        </g>
+        <g id="_Group_553" data-name="&lt;Group&gt;">
+          <path id="_Path_381" data-name="&lt;Path&gt;" class="cls-28" d="M321.254,200.544c.575-.332,1.042-.065,1.044.6a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,321.254,200.544Z"/>
+        </g>
+        <g id="_Group_554" data-name="&lt;Group&gt;">
+          <path id="_Path_382" data-name="&lt;Path&gt;" class="cls-28" d="M325.455,198.119c.575-.332,1.042-.065,1.044.6a2.286,2.286,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,325.455,198.119Z"/>
+        </g>
+        <g id="_Group_555" data-name="&lt;Group&gt;">
+          <path id="_Path_383" data-name="&lt;Path&gt;" class="cls-28" d="M329.656,195.693c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.286,2.286,0,0,1,329.656,195.693Z"/>
+        </g>
+        <g id="_Group_556" data-name="&lt;Group&gt;">
+          <path id="_Path_384" data-name="&lt;Path&gt;" class="cls-28" d="M333.857,193.268c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.568.328-1.036.062-1.038-.6A2.285,2.285,0,0,1,333.857,193.268Z"/>
+        </g>
+        <g id="_Group_557" data-name="&lt;Group&gt;">
+          <path id="_Path_385" data-name="&lt;Path&gt;" class="cls-28" d="M338.065,190.838c.575-.332,1.042-.065,1.044.595a2.286,2.286,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,338.065,190.838Z"/>
+        </g>
+        <g id="_Group_558" data-name="&lt;Group&gt;">
+          <path id="_Path_386" data-name="&lt;Path&gt;" class="cls-28" d="M342.266,188.413c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,342.266,188.413Z"/>
+        </g>
+        <g id="_Group_559" data-name="&lt;Group&gt;">
+          <path id="_Path_387" data-name="&lt;Path&gt;" class="cls-28" d="M346.467,185.987c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,346.467,185.987Z"/>
+        </g>
+        <g id="_Group_560" data-name="&lt;Group&gt;">
+          <path id="_Path_388" data-name="&lt;Path&gt;" class="cls-28" d="M350.675,183.558c.575-.332,1.042-.065,1.044.595a2.286,2.286,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.6A2.287,2.287,0,0,1,350.675,183.558Z"/>
+        </g>
+        <g id="_Group_561" data-name="&lt;Group&gt;">
+          <path id="_Path_389" data-name="&lt;Path&gt;" class="cls-28" d="M354.876,181.133c.575-.332,1.042-.065,1.044.595a2.286,2.286,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.6A2.286,2.286,0,0,1,354.876,181.133Z"/>
+        </g>
+        <g id="_Group_562" data-name="&lt;Group&gt;">
+          <path id="_Path_390" data-name="&lt;Path&gt;" class="cls-28" d="M359.077,178.707c.575-.332,1.042-.065,1.044.595a2.286,2.286,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.286,2.286,0,0,1,359.077,178.707Z"/>
+        </g>
+        <g id="_Group_563" data-name="&lt;Group&gt;">
+          <path id="_Path_391" data-name="&lt;Path&gt;" class="cls-28" d="M363.278,176.282c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.286,2.286,0,0,1,363.278,176.282Z"/>
+        </g>
+        <g id="_Group_564" data-name="&lt;Group&gt;">
+          <path id="_Path_392" data-name="&lt;Path&gt;" class="cls-28" d="M367.485,173.853c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.286,2.286,0,0,1,367.485,173.853Z"/>
+        </g>
+        <g id="_Group_565" data-name="&lt;Group&gt;">
+          <path id="_Path_393" data-name="&lt;Path&gt;" class="cls-28" d="M371.687,171.427c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.286,2.286,0,0,1,371.687,171.427Z"/>
+        </g>
+        <g id="_Group_566" data-name="&lt;Group&gt;">
+          <path id="_Path_394" data-name="&lt;Path&gt;" class="cls-28" d="M375.888,169c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,375.888,169Z"/>
+        </g>
+        <g id="_Group_567" data-name="&lt;Group&gt;">
+          <path id="_Path_395" data-name="&lt;Path&gt;" class="cls-28" d="M380.089,166.576c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.036.061-1.038-.6A2.274,2.274,0,0,1,380.089,166.576Z"/>
+        </g>
+        <g id="_Group_568" data-name="&lt;Group&gt;">
+          <path id="_Path_396" data-name="&lt;Path&gt;" class="cls-28" d="M384.3,164.147c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.286,2.286,0,0,1,384.3,164.147Z"/>
+        </g>
+        <g id="_Group_569" data-name="&lt;Group&gt;">
+          <path id="_Path_397" data-name="&lt;Path&gt;" class="cls-28" d="M388.5,161.721c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,388.5,161.721Z"/>
+        </g>
+        <g id="_Group_570" data-name="&lt;Group&gt;">
+          <path id="_Path_398" data-name="&lt;Path&gt;" class="cls-28" d="M392.7,159.3c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,392.7,159.3Z"/>
+        </g>
+        <g id="_Group_571" data-name="&lt;Group&gt;">
+          <path id="_Path_399" data-name="&lt;Path&gt;" class="cls-28" d="M396.906,156.867c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.286,2.286,0,0,1,396.906,156.867Z"/>
+        </g>
+        <g id="_Group_572" data-name="&lt;Group&gt;">
+          <path id="_Path_400" data-name="&lt;Path&gt;" class="cls-28" d="M401.107,154.441c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,401.107,154.441Z"/>
+        </g>
+        <g id="_Group_573" data-name="&lt;Group&gt;">
+          <path id="_Path_401" data-name="&lt;Path&gt;" class="cls-28" d="M405.308,152.016c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,405.308,152.016Z"/>
+        </g>
+        <g id="_Group_574" data-name="&lt;Group&gt;">
+          <path id="_Path_402" data-name="&lt;Path&gt;" class="cls-28" d="M409.509,149.59c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,409.509,149.59Z"/>
+        </g>
+        <g id="_Group_575" data-name="&lt;Group&gt;">
+          <path id="_Path_403" data-name="&lt;Path&gt;" class="cls-28" d="M413.717,147.161c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.286,2.286,0,0,1,413.717,147.161Z"/>
+        </g>
+        <g id="_Group_576" data-name="&lt;Group&gt;">
+          <path id="_Path_404" data-name="&lt;Path&gt;" class="cls-28" d="M417.918,144.735c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.286,2.286,0,0,1,417.918,144.735Z"/>
+        </g>
+        <g id="_Group_577" data-name="&lt;Group&gt;">
+          <path id="_Path_405" data-name="&lt;Path&gt;" class="cls-28" d="M422.119,142.31c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.286,2.286,0,0,1,422.119,142.31Z"/>
+        </g>
+        <g id="_Group_578" data-name="&lt;Group&gt;">
+          <path id="_Path_406" data-name="&lt;Path&gt;" class="cls-28" d="M426.32,139.884c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.036.062-1.038-.6A2.273,2.273,0,0,1,426.32,139.884Z"/>
+        </g>
+        <g id="_Group_579" data-name="&lt;Group&gt;">
+          <path id="_Path_407" data-name="&lt;Path&gt;" class="cls-28" d="M430.528,137.455c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,430.528,137.455Z"/>
+        </g>
+        <g id="_Group_580" data-name="&lt;Group&gt;">
+          <path id="_Path_408" data-name="&lt;Path&gt;" class="cls-28" d="M434.729,135.03c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,434.729,135.03Z"/>
+        </g>
+        <g id="_Group_581" data-name="&lt;Group&gt;">
+          <path id="_Path_409" data-name="&lt;Path&gt;" class="cls-28" d="M438.93,132.6c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,438.93,132.6Z"/>
+        </g>
+        <g id="_Group_582" data-name="&lt;Group&gt;">
+          <path id="_Path_410" data-name="&lt;Path&gt;" class="cls-28" d="M443.137,130.175c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.286,2.286,0,0,1,443.137,130.175Z"/>
+        </g>
+        <g id="_Group_583" data-name="&lt;Group&gt;">
+          <path id="_Path_411" data-name="&lt;Path&gt;" class="cls-28" d="M447.338,127.749c.575-.332,1.042-.065,1.044.6a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,447.338,127.749Z"/>
+        </g>
+      </g>
+      <g id="line-2" data-name="line">
+        <g id="_Group_584" data-name="&lt;Group&gt;">
+          <path id="_Path_412" data-name="&lt;Path&gt;" class="cls-28" d="M570.446,181.368c-.575-.332-1.042-.065-1.044.595a2.287,2.287,0,0,0,1.037,1.8c.575.332,1.042.065,1.044-.595A2.287,2.287,0,0,0,570.446,181.368Z"/>
+        </g>
+        <g id="_Group_585" data-name="&lt;Group&gt;">
+          <path id="_Path_413" data-name="&lt;Path&gt;" class="cls-28" d="M566.245,178.942c-.575-.332-1.042-.065-1.044.595a2.287,2.287,0,0,0,1.037,1.8c.575.332,1.042.065,1.044-.595A2.287,2.287,0,0,0,566.245,178.942Z"/>
+        </g>
+        <g id="_Group_586" data-name="&lt;Group&gt;">
+          <path id="_Path_414" data-name="&lt;Path&gt;" class="cls-28" d="M562.043,176.517c-.575-.332-1.042-.065-1.044.595a2.287,2.287,0,0,0,1.037,1.8c.575.332,1.042.065,1.044-.6A2.287,2.287,0,0,0,562.043,176.517Z"/>
+        </g>
+        <g id="_Group_587" data-name="&lt;Group&gt;">
+          <path id="_Path_415" data-name="&lt;Path&gt;" class="cls-28" d="M557.842,174.091c-.575-.332-1.042-.065-1.044.595a2.287,2.287,0,0,0,1.037,1.8c.575.332,1.042.065,1.044-.595A2.286,2.286,0,0,0,557.842,174.091Z"/>
+        </g>
+        <g id="_Group_588" data-name="&lt;Group&gt;">
+          <path id="_Path_416" data-name="&lt;Path&gt;" class="cls-28" d="M553.635,171.662c-.575-.332-1.042-.065-1.044.595a2.287,2.287,0,0,0,1.037,1.8c.575.332,1.042.065,1.044-.595A2.287,2.287,0,0,0,553.635,171.662Z"/>
+        </g>
+        <g id="_Group_589" data-name="&lt;Group&gt;">
+          <path id="_Path_417" data-name="&lt;Path&gt;" class="cls-28" d="M549.434,169.236c-.575-.332-1.042-.065-1.044.595a2.287,2.287,0,0,0,1.037,1.8c.575.332,1.042.065,1.044-.595A2.286,2.286,0,0,0,549.434,169.236Z"/>
+        </g>
+        <g id="_Group_590" data-name="&lt;Group&gt;">
+          <path id="_Path_418" data-name="&lt;Path&gt;" class="cls-28" d="M545.233,166.811c-.575-.332-1.042-.065-1.044.595a2.287,2.287,0,0,0,1.037,1.8c.575.332,1.042.065,1.044-.595A2.287,2.287,0,0,0,545.233,166.811Z"/>
+        </g>
+        <g id="_Group_591" data-name="&lt;Group&gt;">
+          <path id="_Path_419" data-name="&lt;Path&gt;" class="cls-28" d="M541.032,164.385c-.575-.332-1.042-.065-1.044.595a2.287,2.287,0,0,0,1.037,1.8c.575.332,1.036.062,1.038-.6A2.274,2.274,0,0,0,541.032,164.385Z"/>
+        </g>
+        <g id="_Group_592" data-name="&lt;Group&gt;">
+          <path id="_Path_420" data-name="&lt;Path&gt;" class="cls-28" d="M536.824,161.956c-.575-.332-1.042-.065-1.044.595a2.286,2.286,0,0,0,1.037,1.8c.575.332,1.042.065,1.044-.595A2.287,2.287,0,0,0,536.824,161.956Z"/>
+        </g>
+        <g id="_Group_593" data-name="&lt;Group&gt;">
+          <path id="_Path_421" data-name="&lt;Path&gt;" class="cls-28" d="M532.623,159.531c-.575-.332-1.042-.065-1.044.595a2.287,2.287,0,0,0,1.037,1.8c.575.332,1.042.065,1.044-.595A2.287,2.287,0,0,0,532.623,159.531Z"/>
+        </g>
+        <g id="_Group_594" data-name="&lt;Group&gt;">
+          <path id="_Path_422" data-name="&lt;Path&gt;" class="cls-28" d="M528.422,157.1c-.575-.332-1.042-.065-1.044.595a2.287,2.287,0,0,0,1.037,1.8c.575.332,1.042.065,1.044-.595A2.287,2.287,0,0,0,528.422,157.1Z"/>
+        </g>
+        <g id="_Group_595" data-name="&lt;Group&gt;">
+          <path id="_Path_423" data-name="&lt;Path&gt;" class="cls-28" d="M524.214,154.676c-.575-.332-1.042-.065-1.044.595a2.287,2.287,0,0,0,1.037,1.8c.575.332,1.042.065,1.044-.595A2.287,2.287,0,0,0,524.214,154.676Z"/>
+        </g>
+        <g id="_Group_596" data-name="&lt;Group&gt;">
+          <path id="_Path_424" data-name="&lt;Path&gt;" class="cls-28" d="M520.013,152.25c-.575-.332-1.042-.065-1.044.595a2.287,2.287,0,0,0,1.037,1.8c.575.332,1.042.065,1.044-.595A2.287,2.287,0,0,0,520.013,152.25Z"/>
+        </g>
+        <g id="_Group_597" data-name="&lt;Group&gt;">
+          <path id="_Path_425" data-name="&lt;Path&gt;" class="cls-28" d="M515.812,149.825c-.575-.332-1.042-.065-1.044.595a2.287,2.287,0,0,0,1.037,1.8c.575.332,1.042.065,1.044-.595A2.287,2.287,0,0,0,515.812,149.825Z"/>
+        </g>
+        <g id="_Group_598" data-name="&lt;Group&gt;">
+          <path id="_Path_426" data-name="&lt;Path&gt;" class="cls-28" d="M511.611,147.4c-.575-.332-1.042-.065-1.044.595a2.287,2.287,0,0,0,1.037,1.8c.575.332,1.042.065,1.044-.595A2.287,2.287,0,0,0,511.611,147.4Z"/>
+        </g>
+        <g id="_Group_599" data-name="&lt;Group&gt;">
+          <path id="_Path_427" data-name="&lt;Path&gt;" class="cls-28" d="M507.4,144.97c-.575-.332-1.042-.065-1.044.595a2.287,2.287,0,0,0,1.037,1.8c.575.332,1.042.065,1.044-.595A2.287,2.287,0,0,0,507.4,144.97Z"/>
+        </g>
+        <g id="_Group_600" data-name="&lt;Group&gt;">
+          <path id="_Path_428" data-name="&lt;Path&gt;" class="cls-28" d="M503.2,142.545c-.575-.332-1.042-.065-1.044.595a2.287,2.287,0,0,0,1.037,1.8c.575.332,1.042.065,1.044-.595A2.287,2.287,0,0,0,503.2,142.545Z"/>
+        </g>
+        <g id="_Group_601" data-name="&lt;Group&gt;">
+          <path id="_Path_429" data-name="&lt;Path&gt;" class="cls-28" d="M499,140.119c-.575-.332-1.042-.065-1.044.595a2.287,2.287,0,0,0,1.037,1.8c.575.332,1.042.065,1.044-.595A2.287,2.287,0,0,0,499,140.119Z"/>
+        </g>
+        <g id="_Group_602" data-name="&lt;Group&gt;">
+          <path id="_Path_430" data-name="&lt;Path&gt;" class="cls-28" d="M494.8,137.694c-.575-.332-1.042-.065-1.044.595a2.287,2.287,0,0,0,1.037,1.8c.575.332,1.036.062,1.038-.6A2.273,2.273,0,0,0,494.8,137.694Z"/>
+        </g>
+        <g id="_Group_603" data-name="&lt;Group&gt;">
+          <path id="_Path_431" data-name="&lt;Path&gt;" class="cls-28" d="M490.593,135.264c-.575-.332-1.042-.065-1.044.595a2.287,2.287,0,0,0,1.037,1.8c.575.332,1.042.065,1.044-.595A2.287,2.287,0,0,0,490.593,135.264Z"/>
+        </g>
+        <g id="_Group_604" data-name="&lt;Group&gt;">
+          <path id="_Path_432" data-name="&lt;Path&gt;" class="cls-28" d="M486.392,132.839c-.575-.332-1.042-.065-1.044.595a2.287,2.287,0,0,0,1.037,1.8c.575.332,1.042.065,1.044-.595A2.287,2.287,0,0,0,486.392,132.839Z"/>
+        </g>
+        <g id="_Group_605" data-name="&lt;Group&gt;">
+          <path id="_Path_433" data-name="&lt;Path&gt;" class="cls-28" d="M482.191,130.413c-.575-.332-1.042-.065-1.044.595a2.287,2.287,0,0,0,1.037,1.8c.575.332,1.042.065,1.044-.595A2.287,2.287,0,0,0,482.191,130.413Z"/>
+        </g>
+        <g id="_Group_606" data-name="&lt;Group&gt;">
+          <path id="_Path_434" data-name="&lt;Path&gt;" class="cls-28" d="M477.983,127.984c-.575-.332-1.042-.065-1.044.595a2.286,2.286,0,0,0,1.037,1.8c.575.332,1.042.065,1.044-.595A2.287,2.287,0,0,0,477.983,127.984Z"/>
+        </g>
+        <g id="_Group_607" data-name="&lt;Group&gt;">
+          <path id="_Path_435" data-name="&lt;Path&gt;" class="cls-28" d="M473.782,125.559c-.575-.332-1.042-.065-1.044.595a2.287,2.287,0,0,0,1.037,1.8c.575.332,1.042.065,1.044-.595A2.287,2.287,0,0,0,473.782,125.559Z"/>
+        </g>
+      </g>
+      <g id="line-3" data-name="line">
+        <g id="_Group_608" data-name="&lt;Group&gt;">
+          <path id="_Path_436" data-name="&lt;Path&gt;" class="cls-28" d="M191.048,305.205c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,191.048,305.205Z"/>
+        </g>
+        <g id="_Group_609" data-name="&lt;Group&gt;">
+          <path id="_Path_437" data-name="&lt;Path&gt;" class="cls-28" d="M191.062,310.033c.575-.332,1.042-.065,1.044.6a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,191.062,310.033Z"/>
+        </g>
+        <g id="_Group_610" data-name="&lt;Group&gt;">
+          <path id="_Path_438" data-name="&lt;Path&gt;" class="cls-28" d="M191.075,314.86c.575-.332,1.042-.065,1.044.6a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.6A2.286,2.286,0,0,1,191.075,314.86Z"/>
+        </g>
+        <g id="_Group_611" data-name="&lt;Group&gt;">
+          <path id="_Path_439" data-name="&lt;Path&gt;" class="cls-28" d="M191.089,319.687c.575-.332,1.042-.065,1.044.595a2.286,2.286,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,191.089,319.687Z"/>
+        </g>
+        <g id="_Group_612" data-name="&lt;Group&gt;">
+          <path id="_Path_440" data-name="&lt;Path&gt;" class="cls-28" d="M191.1,324.522c.575-.332,1.042-.065,1.044.6a2.286,2.286,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.6A2.286,2.286,0,0,1,191.1,324.522Z"/>
+        </g>
+        <g id="_Group_613" data-name="&lt;Group&gt;">
+          <path id="_Path_441" data-name="&lt;Path&gt;" class="cls-28" d="M191.116,329.35c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.6A2.287,2.287,0,0,1,191.116,329.35Z"/>
+        </g>
+        <g id="_Group_614" data-name="&lt;Group&gt;">
+          <path id="_Path_442" data-name="&lt;Path&gt;" class="cls-28" d="M191.13,334.177c.575-.332,1.042-.065,1.044.6a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.6A2.287,2.287,0,0,1,191.13,334.177Z"/>
+        </g>
+        <g id="_Group_615" data-name="&lt;Group&gt;">
+          <path id="_Path_443" data-name="&lt;Path&gt;" class="cls-28" d="M191.144,339.012c.575-.332,1.042-.065,1.044.588a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.6A2.285,2.285,0,0,1,191.144,339.012Z"/>
+        </g>
+        <g id="_Group_616" data-name="&lt;Group&gt;">
+          <path id="_Path_444" data-name="&lt;Path&gt;" class="cls-28" d="M191.157,343.839c.575-.332,1.042-.065,1.044.6a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,191.157,343.839Z"/>
+        </g>
+        <g id="_Group_617" data-name="&lt;Group&gt;">
+          <path id="_Path_445" data-name="&lt;Path&gt;" class="cls-28" d="M191.171,348.667c.575-.332,1.042-.065,1.044.6a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.6A2.287,2.287,0,0,1,191.171,348.667Z"/>
+        </g>
+        <g id="_Group_618" data-name="&lt;Group&gt;">
+          <path id="_Path_446" data-name="&lt;Path&gt;" class="cls-28" d="M191.185,353.494c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,191.185,353.494Z"/>
+        </g>
+        <g id="_Group_619" data-name="&lt;Group&gt;">
+          <path id="_Path_447" data-name="&lt;Path&gt;" class="cls-28" d="M191.2,358.329c.575-.332,1.042-.065,1.044.6a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.6A2.287,2.287,0,0,1,191.2,358.329Z"/>
+        </g>
+        <g id="_Group_620" data-name="&lt;Group&gt;">
+          <path id="_Path_448" data-name="&lt;Path&gt;" class="cls-28" d="M191.212,363.156c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.6A2.287,2.287,0,0,1,191.212,363.156Z"/>
+        </g>
+      </g>
+      <g id="line-4" data-name="line">
+        <g id="_Group_621" data-name="&lt;Group&gt;">
+          <path id="_Path_449" data-name="&lt;Path&gt;" class="cls-28" d="M497.538,420.249c.575-.332,1.042-.065,1.044.6a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.6A2.287,2.287,0,0,1,497.538,420.249Z"/>
+        </g>
+        <g id="_Group_622" data-name="&lt;Group&gt;">
+          <path id="_Path_450" data-name="&lt;Path&gt;" class="cls-28" d="M497.552,425.084c.575-.332,1.042-.065,1.044.588a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.6A2.285,2.285,0,0,1,497.552,425.084Z"/>
+        </g>
+        <g id="_Group_623" data-name="&lt;Group&gt;">
+          <path id="_Path_451" data-name="&lt;Path&gt;" class="cls-28" d="M497.566,429.911c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.6A2.287,2.287,0,0,1,497.566,429.911Z"/>
+        </g>
+        <g id="_Group_624" data-name="&lt;Group&gt;">
+          <path id="_Path_452" data-name="&lt;Path&gt;" class="cls-28" d="M497.579,434.738c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.6A2.287,2.287,0,0,1,497.579,434.738Z"/>
+        </g>
+        <g id="_Group_625" data-name="&lt;Group&gt;">
+          <path id="_Path_453" data-name="&lt;Path&gt;" class="cls-28" d="M497.593,439.566c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,497.593,439.566Z"/>
+        </g>
+        <g id="_Group_626" data-name="&lt;Group&gt;">
+          <path id="_Path_454" data-name="&lt;Path&gt;" class="cls-28" d="M497.607,444.4c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,497.607,444.4Z"/>
+        </g>
+        <g id="_Group_627" data-name="&lt;Group&gt;">
+          <path id="_Path_455" data-name="&lt;Path&gt;" class="cls-28" d="M497.62,449.228c.575-.332,1.042-.065,1.044.6a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.286,2.286,0,0,1,497.62,449.228Z"/>
+        </g>
+      </g>
+      <g id="line-5" data-name="line">
+        <g id="_Group_628" data-name="&lt;Group&gt;">
+          <path id="_Path_456" data-name="&lt;Path&gt;" class="cls-28" d="M661.468,337.6c.575-.332,1.042-.065,1.044.6a2.286,2.286,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,661.468,337.6Z"/>
+        </g>
+        <g id="_Group_629" data-name="&lt;Group&gt;">
+          <path id="_Path_457" data-name="&lt;Path&gt;" class="cls-28" d="M661.482,342.439c.575-.332,1.042-.065,1.044.588a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.6A2.285,2.285,0,0,1,661.482,342.439Z"/>
+        </g>
+        <g id="_Group_630" data-name="&lt;Group&gt;">
+          <path id="_Path_458" data-name="&lt;Path&gt;" class="cls-28" d="M661.5,347.266c.575-.332,1.042-.065,1.044.6a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.6A2.287,2.287,0,0,1,661.5,347.266Z"/>
+        </g>
+        <g id="_Group_631" data-name="&lt;Group&gt;">
+          <path id="_Path_459" data-name="&lt;Path&gt;" class="cls-28" d="M661.509,352.093c.575-.332,1.042-.065,1.044.6a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.6A2.287,2.287,0,0,1,661.509,352.093Z"/>
+        </g>
+        <g id="_Group_632" data-name="&lt;Group&gt;">
+          <path id="_Path_460" data-name="&lt;Path&gt;" class="cls-28" d="M661.523,356.921c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.6A2.287,2.287,0,0,1,661.523,356.921Z"/>
+        </g>
+        <g id="_Group_633" data-name="&lt;Group&gt;">
+          <path id="_Path_461" data-name="&lt;Path&gt;" class="cls-28" d="M661.537,361.755c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.6A2.287,2.287,0,0,1,661.537,361.755Z"/>
+        </g>
+        <g id="_Group_634" data-name="&lt;Group&gt;">
+          <path id="_Path_462" data-name="&lt;Path&gt;" class="cls-28" d="M661.55,366.583c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,661.55,366.583Z"/>
+        </g>
+      </g>
+      <g id="line-6" data-name="line">
+        <g id="_Group_635" data-name="&lt;Group&gt;">
+          <path id="_Path_463" data-name="&lt;Path&gt;" class="cls-28" d="M597.085,225.465c.575-.332,1.042-.065,1.044.6a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,597.085,225.465Z"/>
+        </g>
+        <g id="_Group_636" data-name="&lt;Group&gt;">
+          <path id="_Path_464" data-name="&lt;Path&gt;" class="cls-28" d="M597.1,230.292c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,597.1,230.292Z"/>
+        </g>
+        <g id="_Group_637" data-name="&lt;Group&gt;">
+          <path id="_Path_465" data-name="&lt;Path&gt;" class="cls-28" d="M597.113,235.127c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,597.113,235.127Z"/>
+        </g>
+        <g id="_Group_638" data-name="&lt;Group&gt;">
+          <path id="_Path_466" data-name="&lt;Path&gt;" class="cls-28" d="M597.126,239.954c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,597.126,239.954Z"/>
+        </g>
+        <g id="_Group_639" data-name="&lt;Group&gt;">
+          <path id="_Path_467" data-name="&lt;Path&gt;" class="cls-28" d="M597.14,244.781c.575-.332,1.042-.065,1.044.595a2.286,2.286,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,597.14,244.781Z"/>
+        </g>
+        <g id="_Group_640" data-name="&lt;Group&gt;">
+          <path id="_Path_468" data-name="&lt;Path&gt;" class="cls-28" d="M597.154,249.609c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,597.154,249.609Z"/>
+        </g>
+        <g id="_Group_641" data-name="&lt;Group&gt;">
+          <path id="_Path_469" data-name="&lt;Path&gt;" class="cls-28" d="M597.167,254.444c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,597.167,254.444Z"/>
+        </g>
+        <g id="_Group_642" data-name="&lt;Group&gt;">
+          <path id="_Path_470" data-name="&lt;Path&gt;" class="cls-28" d="M597.181,259.271c.575-.332,1.042-.065,1.044.6a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,597.181,259.271Z"/>
+        </g>
+        <g id="_Group_643" data-name="&lt;Group&gt;">
+          <path id="_Path_471" data-name="&lt;Path&gt;" class="cls-28" d="M597.195,264.1c.575-.332,1.042-.065,1.044.6a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.6A2.287,2.287,0,0,1,597.195,264.1Z"/>
+        </g>
+        <g id="_Group_644" data-name="&lt;Group&gt;">
+          <path id="_Path_472" data-name="&lt;Path&gt;" class="cls-28" d="M597.209,268.933c.575-.332,1.042-.065,1.044.588a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.6A2.285,2.285,0,0,1,597.209,268.933Z"/>
+        </g>
+        <g id="_Group_645" data-name="&lt;Group&gt;">
+          <path id="_Path_473" data-name="&lt;Path&gt;" class="cls-28" d="M597.222,273.76c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.6A2.287,2.287,0,0,1,597.222,273.76Z"/>
+        </g>
+        <g id="_Group_646" data-name="&lt;Group&gt;">
+          <path id="_Path_474" data-name="&lt;Path&gt;" class="cls-28" d="M597.236,278.588c.575-.332,1.042-.065,1.044.595a2.286,2.286,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,597.236,278.588Z"/>
+        </g>
+        <g id="_Group_647" data-name="&lt;Group&gt;">
+          <path id="_Path_475" data-name="&lt;Path&gt;" class="cls-28" d="M597.25,283.415c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,597.25,283.415Z"/>
+        </g>
+        <g id="_Group_648" data-name="&lt;Group&gt;">
+          <path id="_Path_476" data-name="&lt;Path&gt;" class="cls-28" d="M597.263,288.25c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,597.263,288.25Z"/>
+        </g>
+        <g id="_Group_649" data-name="&lt;Group&gt;">
+          <path id="_Path_477" data-name="&lt;Path&gt;" class="cls-28" d="M597.277,293.077c.575-.332,1.042-.065,1.044.6a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,597.277,293.077Z"/>
+        </g>
+      </g>
+      <g id="line-7" data-name="line">
+        <g id="_Group_650" data-name="&lt;Group&gt;">
+          <path id="_Path_478" data-name="&lt;Path&gt;" class="cls-28" d="M272.073,228.939c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,272.073,228.939Z"/>
+        </g>
+        <g id="_Group_651" data-name="&lt;Group&gt;">
+          <path id="_Path_479" data-name="&lt;Path&gt;" class="cls-28" d="M267.865,231.368c.575-.332,1.042-.065,1.044.595a2.286,2.286,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,267.865,231.368Z"/>
+        </g>
+        <g id="_Group_652" data-name="&lt;Group&gt;">
+          <path id="_Path_480" data-name="&lt;Path&gt;" class="cls-28" d="M263.664,233.794c.575-.332,1.042-.065,1.044.595a2.286,2.286,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,263.664,233.794Z"/>
+        </g>
+        <g id="_Group_653" data-name="&lt;Group&gt;">
+          <path id="_Path_481" data-name="&lt;Path&gt;" class="cls-28" d="M259.463,236.219c.575-.332,1.042-.065,1.044.595a2.286,2.286,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,259.463,236.219Z"/>
+        </g>
+        <g id="_Group_654" data-name="&lt;Group&gt;">
+          <path id="_Path_482" data-name="&lt;Path&gt;" class="cls-28" d="M255.256,238.648c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.568.328-1.036.062-1.038-.6A2.285,2.285,0,0,1,255.256,238.648Z"/>
+        </g>
+        <g id="_Group_655" data-name="&lt;Group&gt;">
+          <path id="_Path_483" data-name="&lt;Path&gt;" class="cls-28" d="M251.055,241.074c.575-.332,1.042-.065,1.044.595a2.286,2.286,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,251.055,241.074Z"/>
+        </g>
+        <g id="_Group_656" data-name="&lt;Group&gt;">
+          <path id="_Path_484" data-name="&lt;Path&gt;" class="cls-28" d="M246.853,243.5c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,246.853,243.5Z"/>
+        </g>
+        <g id="_Group_657" data-name="&lt;Group&gt;">
+          <path id="_Path_485" data-name="&lt;Path&gt;" class="cls-28" d="M242.652,245.925c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,242.652,245.925Z"/>
+        </g>
+        <g id="_Group_658" data-name="&lt;Group&gt;">
+          <path id="_Path_486" data-name="&lt;Path&gt;" class="cls-28" d="M238.445,248.354c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,238.445,248.354Z"/>
+        </g>
+        <g id="_Group_659" data-name="&lt;Group&gt;">
+          <path id="_Path_487" data-name="&lt;Path&gt;" class="cls-28" d="M234.244,250.78c.575-.332,1.042-.065,1.044.595a2.286,2.286,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,234.244,250.78Z"/>
+        </g>
+        <g id="_Group_660" data-name="&lt;Group&gt;">
+          <path id="_Path_488" data-name="&lt;Path&gt;" class="cls-28" d="M230.043,253.205c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,230.043,253.205Z"/>
+        </g>
+        <g id="_Group_661" data-name="&lt;Group&gt;">
+          <path id="_Path_489" data-name="&lt;Path&gt;" class="cls-28" d="M225.842,255.631c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,225.842,255.631Z"/>
+        </g>
+        <g id="_Group_662" data-name="&lt;Group&gt;">
+          <path id="_Path_490" data-name="&lt;Path&gt;" class="cls-28" d="M221.634,258.06c.575-.332,1.042-.065,1.044.6a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.6A2.287,2.287,0,0,1,221.634,258.06Z"/>
+        </g>
+        <g id="_Group_663" data-name="&lt;Group&gt;">
+          <path id="_Path_491" data-name="&lt;Path&gt;" class="cls-28" d="M217.433,260.485c.575-.332,1.042-.065,1.044.6a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.6A2.287,2.287,0,0,1,217.433,260.485Z"/>
+        </g>
+        <g id="_Group_664" data-name="&lt;Group&gt;">
+          <path id="_Path_492" data-name="&lt;Path&gt;" class="cls-28" d="M213.232,262.911c.575-.332,1.042-.065,1.044.6a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.6A2.287,2.287,0,0,1,213.232,262.911Z"/>
+        </g>
+      </g>
+      <g id="line-8" data-name="line">
+        <g id="_Group_665" data-name="&lt;Group&gt;">
+          <path id="_Path_493" data-name="&lt;Path&gt;" class="cls-29" d="M564.822,375.543c.575-.332,1.042-.065,1.044.6a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,564.822,375.543Z"/>
+        </g>
+        <g id="_Group_666" data-name="&lt;Group&gt;">
+          <path id="_Path_494" data-name="&lt;Path&gt;" class="cls-29" d="M560.621,377.969c.575-.332,1.042-.065,1.044.6a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,560.621,377.969Z"/>
+        </g>
+        <g id="_Group_667" data-name="&lt;Group&gt;">
+          <path id="_Path_495" data-name="&lt;Path&gt;" class="cls-29" d="M556.42,380.394c.575-.332,1.042-.065,1.044.6a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,556.42,380.394Z"/>
+        </g>
+        <g id="_Group_668" data-name="&lt;Group&gt;">
+          <path id="_Path_496" data-name="&lt;Path&gt;" class="cls-29" d="M552.213,382.823c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,552.213,382.823Z"/>
+        </g>
+        <g id="_Group_669" data-name="&lt;Group&gt;">
+          <path id="_Path_497" data-name="&lt;Path&gt;" class="cls-29" d="M548.012,385.249c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,548.012,385.249Z"/>
+        </g>
+        <g id="_Group_670" data-name="&lt;Group&gt;">
+          <path id="_Path_498" data-name="&lt;Path&gt;" class="cls-29" d="M543.811,387.674c.575-.332,1.042-.065,1.044.6a2.286,2.286,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,543.811,387.674Z"/>
+        </g>
+        <g id="_Group_671" data-name="&lt;Group&gt;">
+          <path id="_Path_499" data-name="&lt;Path&gt;" class="cls-29" d="M539.6,390.1c.575-.332,1.042-.065,1.044.6a2.287,2.287,0,0,1-1.037,1.8c-.568.328-1.036.062-1.038-.6A2.285,2.285,0,0,1,539.6,390.1Z"/>
+        </g>
+        <g id="_Group_672" data-name="&lt;Group&gt;">
+          <path id="_Path_500" data-name="&lt;Path&gt;" class="cls-29" d="M535.4,392.529c.575-.332,1.042-.065,1.044.595a2.286,2.286,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,535.4,392.529Z"/>
+        </g>
+        <g id="_Group_673" data-name="&lt;Group&gt;">
+          <path id="_Path_501" data-name="&lt;Path&gt;" class="cls-29" d="M531.2,394.955c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,531.2,394.955Z"/>
+        </g>
+        <g id="_Group_674" data-name="&lt;Group&gt;">
+          <path id="_Path_502" data-name="&lt;Path&gt;" class="cls-29" d="M527,397.38c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,527,397.38Z"/>
+        </g>
+        <g id="_Group_675" data-name="&lt;Group&gt;">
+          <path id="_Path_503" data-name="&lt;Path&gt;" class="cls-29" d="M522.792,399.809c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.6A2.286,2.286,0,0,1,522.792,399.809Z"/>
+        </g>
+        <g id="_Group_676" data-name="&lt;Group&gt;">
+          <path id="_Path_504" data-name="&lt;Path&gt;" class="cls-29" d="M518.591,402.235c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.6A2.287,2.287,0,0,1,518.591,402.235Z"/>
+        </g>
+        <g id="_Group_677" data-name="&lt;Group&gt;">
+          <path id="_Path_505" data-name="&lt;Path&gt;" class="cls-29" d="M514.39,404.66c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.6A2.287,2.287,0,0,1,514.39,404.66Z"/>
+        </g>
+        <g id="_Group_678" data-name="&lt;Group&gt;">
+          <path id="_Path_506" data-name="&lt;Path&gt;" class="cls-29" d="M510.189,407.086c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.6A2.287,2.287,0,0,1,510.189,407.086Z"/>
+        </g>
+        <g id="_Group_679" data-name="&lt;Group&gt;">
+          <path id="_Path_507" data-name="&lt;Path&gt;" class="cls-29" d="M505.981,409.515c.575-.332,1.042-.065,1.044.6a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.6A2.287,2.287,0,0,1,505.981,409.515Z"/>
+        </g>
+        <g id="_Group_680" data-name="&lt;Group&gt;">
+          <path id="_Path_508" data-name="&lt;Path&gt;" class="cls-29" d="M501.78,411.941c.575-.332,1.042-.065,1.044.6a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.6A2.287,2.287,0,0,1,501.78,411.941Z"/>
+        </g>
+        <g id="_Group_681" data-name="&lt;Group&gt;">
+          <path id="_Path_509" data-name="&lt;Path&gt;" class="cls-29" d="M497.579,414.366c.575-.332,1.042-.065,1.044.6a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.6A2.287,2.287,0,0,1,497.579,414.366Z"/>
+        </g>
+      </g>
+      <g id="line-9" data-name="line">
+        <g id="_Group_682" data-name="&lt;Group&gt;">
+          <path id="_Path_510" data-name="&lt;Path&gt;" class="cls-29" d="M632.333,336.566c.575-.332,1.042-.065,1.044.6a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,632.333,336.566Z"/>
+        </g>
+        <g id="_Group_683" data-name="&lt;Group&gt;">
+          <path id="_Path_511" data-name="&lt;Path&gt;" class="cls-29" d="M628.132,338.992c.575-.332,1.042-.065,1.044.6a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,628.132,338.992Z"/>
+        </g>
+        <g id="_Group_684" data-name="&lt;Group&gt;">
+          <path id="_Path_512" data-name="&lt;Path&gt;" class="cls-29" d="M623.931,341.417c.575-.332,1.042-.065,1.044.6a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,623.931,341.417Z"/>
+        </g>
+        <g id="_Group_685" data-name="&lt;Group&gt;">
+          <path id="_Path_513" data-name="&lt;Path&gt;" class="cls-29" d="M619.723,343.846c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.6A2.287,2.287,0,0,1,619.723,343.846Z"/>
+        </g>
+        <g id="_Group_686" data-name="&lt;Group&gt;">
+          <path id="_Path_514" data-name="&lt;Path&gt;" class="cls-29" d="M615.522,346.272c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.6A2.287,2.287,0,0,1,615.522,346.272Z"/>
+        </g>
+        <g id="_Group_687" data-name="&lt;Group&gt;">
+          <path id="_Path_515" data-name="&lt;Path&gt;" class="cls-29" d="M611.321,348.7c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.6A2.287,2.287,0,0,1,611.321,348.7Z"/>
+        </g>
+        <g id="_Group_688" data-name="&lt;Group&gt;">
+          <path id="_Path_516" data-name="&lt;Path&gt;" class="cls-29" d="M607.113,351.126c.575-.332,1.042-.065,1.044.6a2.287,2.287,0,0,1-1.037,1.8c-.568.328-1.036.062-1.038-.6A2.285,2.285,0,0,1,607.113,351.126Z"/>
+        </g>
+        <g id="_Group_689" data-name="&lt;Group&gt;">
+          <path id="_Path_517" data-name="&lt;Path&gt;" class="cls-29" d="M602.912,353.552c.575-.332,1.042-.065,1.044.6a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.6A2.287,2.287,0,0,1,602.912,353.552Z"/>
+        </g>
+        <g id="_Group_690" data-name="&lt;Group&gt;">
+          <path id="_Path_518" data-name="&lt;Path&gt;" class="cls-29" d="M598.711,355.977c.575-.332,1.042-.065,1.044.6a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.6A2.287,2.287,0,0,1,598.711,355.977Z"/>
+        </g>
+        <g id="_Group_691" data-name="&lt;Group&gt;">
+          <path id="_Path_519" data-name="&lt;Path&gt;" class="cls-29" d="M594.51,358.4c.575-.332,1.042-.065,1.044.6a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.6A2.287,2.287,0,0,1,594.51,358.4Z"/>
+        </g>
+        <g id="_Group_692" data-name="&lt;Group&gt;">
+          <path id="_Path_520" data-name="&lt;Path&gt;" class="cls-29" d="M590.3,360.832c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,590.3,360.832Z"/>
+        </g>
+        <g id="_Group_693" data-name="&lt;Group&gt;">
+          <path id="_Path_521" data-name="&lt;Path&gt;" class="cls-29" d="M586.1,363.258c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,586.1,363.258Z"/>
+        </g>
+        <g id="_Group_694" data-name="&lt;Group&gt;">
+          <path id="_Path_522" data-name="&lt;Path&gt;" class="cls-29" d="M581.9,365.683c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,581.9,365.683Z"/>
+        </g>
+        <g id="_Group_695" data-name="&lt;Group&gt;">
+          <path id="_Path_523" data-name="&lt;Path&gt;" class="cls-29" d="M577.7,368.109c.575-.332,1.042-.065,1.044.6a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.595A2.287,2.287,0,0,1,577.7,368.109Z"/>
+        </g>
+        <g id="_Group_696" data-name="&lt;Group&gt;">
+          <path id="_Path_524" data-name="&lt;Path&gt;" class="cls-29" d="M573.492,370.538c.575-.332,1.042-.065,1.044.595a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.6A2.287,2.287,0,0,1,573.492,370.538Z"/>
+        </g>
+        <g id="_Group_697" data-name="&lt;Group&gt;">
+          <path id="_Path_525" data-name="&lt;Path&gt;" class="cls-29" d="M569.291,372.963c.575-.332,1.042-.065,1.044.6a2.287,2.287,0,0,1-1.037,1.8c-.575.332-1.042.065-1.044-.6A2.287,2.287,0,0,1,569.291,372.963Z"/>
+        </g>
+      </g>
+      <g id="ipad">
+        <g id="_Group_698" data-name="&lt;Group&gt;">
+          <g id="_Group_699" data-name="&lt;Group&gt;">
+            <g id="_Group_700" data-name="&lt;Group&gt;" class="cls-2">
+              <path id="_Path_526" data-name="&lt;Path&gt;" class="cls-22" d="M281.053,277.986l-.247-106.914a7.975,7.975,0,0,1,3.619-6.269l61.859-35.715a2.562,2.562,0,0,1,2.584-.253l-4.454-2.588a2.562,2.562,0,0,0-2.584.253l-61.859,35.715a7.975,7.975,0,0,0-3.619,6.269L276.6,275.4a2.542,2.542,0,0,0,1.059,2.329l4.454,2.588A2.542,2.542,0,0,1,281.053,277.986Z"/>
+              <path id="_Path_527" data-name="&lt;Path&gt;" class="cls-23" d="M282.306,278.71,282.059,171.8a7.975,7.975,0,0,1,3.619-6.269l61.859-35.714a2.562,2.562,0,0,1,2.584-.253l-4.454-2.588a2.562,2.562,0,0,0-2.584.253l-61.859,35.714a7.975,7.975,0,0,0-3.619,6.269l.247,106.914a2.542,2.542,0,0,0,1.059,2.329l4.454,2.588A2.542,2.542,0,0,1,282.306,278.71Z"/>
+              <g id="_Group_701" data-name="&lt;Group&gt;">
+                <path id="_Path_528" data-name="&lt;Path&gt;" class="cls-37" d="M285.949,280.786c-2.006,1.158-3.636.229-3.643-2.076L282.059,171.8a7.975,7.975,0,0,1,3.619-6.269l61.859-35.714c2.006-1.158,3.636-.229,3.643,2.076l.247,106.914a7.975,7.975,0,0,1-3.619,6.269Z"/>
+              </g>
+            </g>
+          </g>
+          <g id="_Group_702" data-name="&lt;Group&gt;">
+            <g id="_Group_703" data-name="&lt;Group&gt;">
+              <path id="_Path_529" data-name="&lt;Path&gt;" class="cls-23" d="M286.613,266.516a2.734,2.734,0,0,1-.462-1.641l-.222-90.437a7.09,7.09,0,0,1,3.216-5.571L344.1,137.14a2.756,2.756,0,0,1,1.678-.429c.932.115,1.554.932,1.559,2.275l.22,90.436a7.084,7.084,0,0,1-3.215,5.569l-54.957,31.729C288.211,267.4,287.179,267.269,286.613,266.516Z"/>
+            </g>
+            <g id="_Group_704" data-name="&lt;Group&gt;">
+              <path id="_Path_530" data-name="&lt;Path&gt;" class="cls-26" d="M286.614,266.518a2.767,2.767,0,0,1-.465-1.646l-.223-90.433a7.083,7.083,0,0,1,3.216-5.571L344.1,137.144a2.85,2.85,0,0,1,1.46-.444l.218.013a2.746,2.746,0,0,1,.468,1.64l.214,90.436a7.084,7.084,0,0,1-3.216,5.571l-54.952,31.728A2.746,2.746,0,0,1,286.614,266.518Z"/>
+              <path id="_Path_531" data-name="&lt;Path&gt;" class="cls-11" d="M286.614,266.518a2.767,2.767,0,0,1-.465-1.646l-.223-90.433a7.083,7.083,0,0,1,3.216-5.571L344.1,137.144a2.85,2.85,0,0,1,1.46-.444l.218.013Z"/>
+            </g>
+          </g>
+          <g id="_Group_705" data-name="&lt;Group&gt;">
+            <g id="_Group_706" data-name="&lt;Group&gt;">
+              <path id="_Path_532" data-name="&lt;Path&gt;" class="cls-38" d="M279.829,197.707a2.487,2.487,0,0,1-1.13-1.956c0-.616.366-.922.861-.778a1.254,1.254,0,0,1,.269.117,2.491,2.491,0,0,1,1.13,1.956,1.218,1.218,0,0,1-.019.22C280.846,197.825,280.382,198.024,279.829,197.707Z"/>
+            </g>
+            <g id="_Group_707" data-name="&lt;Group&gt;">
+              <path id="_Path_533" data-name="&lt;Path&gt;" class="cls-39" d="M280.671,197.149a2.49,2.49,0,0,1-1.13-1.956,1.226,1.226,0,0,1,.019-.22,1.254,1.254,0,0,1,.269.117,2.491,2.491,0,0,1,1.13,1.956,1.218,1.218,0,0,1-.019.22A1.259,1.259,0,0,1,280.671,197.149Z"/>
+            </g>
+          </g>
+          <g id="_Group_708" data-name="&lt;Group&gt;">
+            <g id="_Group_709" data-name="&lt;Group&gt;">
+              <g id="_Group_710" data-name="&lt;Group&gt;">
+                <g id="_Group_711" data-name="&lt;Group&gt;" class="cls-2">
+                  <g id="_Group_712" data-name="&lt;Group&gt;">
+                    <polygon id="_Path_534" data-name="&lt;Path&gt;" class="cls-39" points="319.791 143.396 318.605 142.706 309.613 147.898 310.8 148.587 319.791 143.396"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <polygon id="_Path_535" data-name="&lt;Path&gt;" class="cls-38" points="318.605 142.706 318.605 144.074 319.791 143.396 318.605 142.706"/>
+          </g>
+          <g id="_Group_713" data-name="&lt;Group&gt;">
+            <g id="_Group_714" data-name="&lt;Group&gt;">
+              <path id="_Path_536" data-name="&lt;Path&gt;" class="cls-38" d="M279.829,188.022a1.613,1.613,0,0,1-.733-1.268c0-.4.238-.6.558-.5a.818.818,0,0,1,.175.076,1.616,1.616,0,0,1,.733,1.268.8.8,0,0,1-.012.143C280.488,188.1,280.188,188.228,279.829,188.022Z"/>
+            </g>
+            <g id="_Group_715" data-name="&lt;Group&gt;">
+              <path id="_Path_537" data-name="&lt;Path&gt;" class="cls-39" d="M280.375,187.66a1.615,1.615,0,0,1-.733-1.269.8.8,0,0,1,.012-.143.818.818,0,0,1,.175.076,1.616,1.616,0,0,1,.733,1.268.8.8,0,0,1-.012.143A.815.815,0,0,1,280.375,187.66Z"/>
+            </g>
+          </g>
+        </g>
+        <g id="_Group_716" data-name="&lt;Group&gt;">
+          <path id="_Path_538" data-name="&lt;Path&gt;" class="cls-23" d="M321.586,256.425a4.118,4.118,0,0,0,1.87-3.239c0-1.02-.606-1.526-1.425-1.288a2.086,2.086,0,0,0-.446.194,4.125,4.125,0,0,0-1.87,3.239,2.027,2.027,0,0,0,.031.364C319.9,256.62,320.67,256.95,321.586,256.425Z"/>
+        </g>
+        <g id="_Group_717" data-name="&lt;Group&gt;">
+          <path id="_Path_539" data-name="&lt;Path&gt;" class="cls-37" d="M321.586,255.762a2.859,2.859,0,0,0,1.3-2.249c0-.708-.421-1.059-.989-.894a1.451,1.451,0,0,0-.31.135,2.864,2.864,0,0,0-1.3,2.249,1.4,1.4,0,0,0,.022.253C320.417,255.9,320.95,256.126,321.586,255.762Z"/>
+        </g>
+      </g>
+      <g id="event-3" data-name="event">
+        <g id="_Group_718" data-name="&lt;Group&gt;">
+          <path id="_Path_540" data-name="&lt;Path&gt;" class="cls-36" d="M598.893,185.416a15.882,15.882,0,0,0,4.039,1.275,44.289,44.289,0,0,1,1.211,4.533,19.454,19.454,0,0,1-5.261-1.712Z"/>
+        </g>
+        <g id="_Group_719" data-name="&lt;Group&gt;">
+          <path id="_Path_541" data-name="&lt;Path&gt;" class="cls-36" d="M604.087,210.647a16.049,16.049,0,0,1-1.245,3.111,30.464,30.464,0,0,0-4.02-3.372l.012-4.1A36.479,36.479,0,0,1,604.087,210.647Z"/>
+        </g>
+        <g id="_Group_720" data-name="&lt;Group&gt;" class="cls-2">
+          <g id="_Group_721" data-name="&lt;Group&gt;">
+            <path id="_Path_542" data-name="&lt;Path&gt;" class="cls-36" d="M588.983,209.581c2.071,5.183,4.887,9.223,8.039,11.043l-.256-.15-.084-.05-.167-.1-.113-.069-.14-.086-.121-.076-.129-.081-.13-.083-.122-.079-.128-.083-.12-.079-.14-.093-.1-.068-.15-.1-.093-.064-.16-.111-.079-.055-.164-.116-.085-.061-.164-.118c-.132-.1-.251-.184-.369-.272l-.109-.081-.114-.087-.141-.107-.082-.063-.171-.133-.061-.048-.2-.156-.258-.208a44.953,44.953,0,0,1-9.77-11.4l-1.426-2.33.069-.032,1.366-.639a10.053,10.053,0,0,1,1.308-.509,10.945,10.945,0,0,1,2.349-.451c.362,1.591.79,3.132,1.275,4.605a9.048,9.048,0,0,0-.921.172C587.714,208.005,588.338,208.811,588.983,209.581Z"/>
+          </g>
+          <g id="_Group_722" data-name="&lt;Group&gt;">
+            <path id="_Path_543" data-name="&lt;Path&gt;" class="cls-36" d="M600.828,222.417q-.916-.332-1.858-.773Q599.908,222.084,600.828,222.417Z"/>
+          </g>
+          <g id="_Group_723" data-name="&lt;Group&gt;">
+            <path id="_Path_544" data-name="&lt;Path&gt;" class="cls-36" d="M580.077,185.018l5.369,3.1q-.043.987-.046,2.016t.035,2.055l-5.37-3.1-1.872-1.081.012-4.072Z"/>
+          </g>
+          <g id="_Group_724" data-name="&lt;Group&gt;">
+            <path id="_Path_545" data-name="&lt;Path&gt;" class="cls-36" d="M595.279,208.34a15.906,15.906,0,0,0-4.022-1.272,44.2,44.2,0,0,1-1.222-4.534,19.449,19.449,0,0,1,5.255,1.71Z"/>
+          </g>
+          <g id="_Group_725" data-name="&lt;Group&gt;">
+            <path id="_Path_546" data-name="&lt;Path&gt;" class="cls-36" d="M612.339,221.652l.067.108-1.428.682a12.408,12.408,0,0,1-8.792.411l-.228-.066-.072-.022-.156-.047-.116-.036-.11-.035-.148-.048-.076-.025-.177-.06-.048-.017-.195-.069c-.645-.234-1.264-.491-1.89-.785l-.227-.108-.052-.025-.176-.087-.086-.043-.156-.079-.1-.049-.15-.078-.112-.059-.135-.072-.129-.07-.122-.066-.161-.09-.089-.05-.256-.146c3.149,1.818,5.977,1.037,8.069-1.741a9.339,9.339,0,0,0,1.875-.255c-.3-.427-.611-.838-.923-1.241a17.952,17.952,0,0,0,1.3-3.122q1.217,1.509,2.339,3.158.67.986,1.3,2.016Z"/>
+          </g>
+          <g id="_Group_726" data-name="&lt;Group&gt;">
+            <path id="_Path_547" data-name="&lt;Path&gt;" class="cls-36" d="M605.1,218.875a9.437,9.437,0,0,0,1.864-.255l.005.007a9.339,9.339,0,0,1-1.875.255Z"/>
+          </g>
+          <g id="_Group_727" data-name="&lt;Group&gt;">
+            <path id="_Path_548" data-name="&lt;Path&gt;" class="cls-36" d="M578.191,188.008l1.872,1.081a35.7,35.7,0,0,0,4.355,13.75,10.053,10.053,0,0,0-1.308.509l-1.366.639c-3.318-6.139-5.333-12.9-5.316-19.032.017-5.908,1.966-10.492,5.4-12.857l1.363,2.22q.628,1.026,1.3,2.009c-2.473,1.682-4.021,4.738-4.413,8.692l-1.874-1.082Z"/>
+          </g>
+          <g id="_Group_728" data-name="&lt;Group&gt;">
+            <path id="_Path_549" data-name="&lt;Path&gt;" class="cls-36" d="M588.949,192.183q0-1.027.052-2.013l6.319,3.648-.012,4.072-6.321-3.649Q588.946,193.219,588.949,192.183Z"/>
+          </g>
+          <g id="_Group_729" data-name="&lt;Group&gt;">
+            <path id="_Path_550" data-name="&lt;Path&gt;" class="cls-36" d="M597.145,177.214a7.063,7.063,0,0,1,1.767,1.536l-.019,6.666-.012,4.1-.018,6.352-.012,4.072-.018,6.352-.012,4.1-.019,6.638a3.324,3.324,0,0,1-1.77-.478,6.988,6.988,0,0,1-1.773-1.57l.019-6.635.012-4.1.018-6.353.011-4.072.018-6.353.012-4.1.019-6.664A3.494,3.494,0,0,1,597.145,177.214Z"/>
+          </g>
+          <g id="_Group_730" data-name="&lt;Group&gt;">
+            <path id="_Compound_Path_" data-name="&lt;Compound Path&gt;" class="cls-36" d="M608.738,201.566q.037,1.034.035,2.063t-.046,2.009a33.791,33.791,0,0,1-1.386,8.626,17.952,17.952,0,0,1-1.3,3.122,11.92,11.92,0,0,1-.947,1.489c-2.1,2.786-4.926,3.567-8.075,1.749s-5.968-5.86-8.039-11.043c-.337-.843-.649-1.7-.94-2.588-.485-1.473-.913-3.015-1.275-4.605a55.236,55.236,0,0,1-1.334-10.2q-.037-1.026-.035-2.055t.046-2.016a33.914,33.914,0,0,1,1.385-8.63,18.009,18.009,0,0,1,1.295-3.123,12.453,12.453,0,0,1,.782-1.269c.054-.076.108-.151.163-.224,2.153-2.891,5.01-3.513,8.086-1.737s5.919,5.688,8.043,11.047c.054.137.108.275.162.414q.41,1.061.773,2.166c.49,1.489.916,3.031,1.275,4.608A55.342,55.342,0,0,1,608.738,201.566Zm-3.559,2.023q.047-.971.051-2.006t-.041-2.066a50.2,50.2,0,0,0-1.046-8.292,44.289,44.289,0,0,0-1.211-4.533q-.309-.944-.654-1.84a21.071,21.071,0,0,0-3.366-6.1,7.07,7.07,0,0,0-1.767-1.536,3.5,3.5,0,0,0-1.776-.508,4.342,4.342,0,0,0-3.389,2.192,10.169,10.169,0,0,0-.664,1.085,16.253,16.253,0,0,0-1.229,3.125A31.394,31.394,0,0,0,589,190.171q-.048.985-.052,2.013t.039,2.058a49.188,49.188,0,0,0,1.047,8.292,44.2,44.2,0,0,0,1.222,4.534,24.6,24.6,0,0,0,4,7.907,6.987,6.987,0,0,0,1.773,1.571,3.322,3.322,0,0,0,1.77.478c1.469-.041,2.9-1.163,4.039-3.265a16.049,16.049,0,0,0,1.245-3.111,30.526,30.526,0,0,0,1.092-7.057"/>
+          </g>
+          <g id="_Group_731" data-name="&lt;Group&gt;">
+            <path id="_Path_551" data-name="&lt;Path&gt;" class="cls-36" d="M598.863,195.865l6.326,3.652q.043,1.038.041,2.066t-.051,2.006l-6.327-3.653Z"/>
+          </g>
+          <g id="_Group_732" data-name="&lt;Group&gt;">
+            <path id="_Path_552" data-name="&lt;Path&gt;" class="cls-36" d="M583.2,171.317c3.339-1.589,7.55-1.3,12.024.806q.959.451,1.931,1.012c-3.076-1.776-5.933-1.154-8.086,1.737l-.083,0-.162.009-.039,0-.111.008-.065.005-.067.006a9.138,9.138,0,0,0-1.337.222q.451.631.919,1.237a18.009,18.009,0,0,0-1.295,3.123q-1.218-1.511-2.341-3.162-.668-.982-1.3-2.009l-1.363-2.22-.063-.1,1.111-.525Z"/>
+          </g>
+          <g id="_Group_733" data-name="&lt;Group&gt;">
+            <path id="_Path_553" data-name="&lt;Path&gt;" class="cls-36" d="M594.389,171.75c-4.161-1.759-8.057-1.923-11.188-.433l-.324.153c.107-.055.215-.109.324-.16C586.332,169.826,590.228,169.991,594.389,171.75Z"/>
+          </g>
+          <g id="_Group_734" data-name="&lt;Group&gt;">
+            <path id="_Path_554" data-name="&lt;Path&gt;" class="cls-36" d="M614.107,204.666l1.874,1.082-.011,4.072-1.872-1.081-5.37-3.1q.043-.98.046-2.009t-.035-2.063Z"/>
+          </g>
+          <g id="_Group_735" data-name="&lt;Group&gt;">
+            <path id="_Path_555" data-name="&lt;Path&gt;" class="cls-36" d="M612.433,189.766c3.409,6.312,5.327,13.131,5.311,19.042-.017,6.128-2.064,10.549-5.4,12.844l-1.359-2.214q-.63-1.029-1.3-2.016c2.414-1.638,4.02-4.609,4.418-8.684l1.872,1.081.011-4.072-1.874-1.082a35.871,35.871,0,0,0-4.348-13.749,10,10,0,0,0,1.3-.509Z"/>
+          </g>
+          <g id="_Group_736" data-name="&lt;Group&gt;">
+            <path id="_Path_556" data-name="&lt;Path&gt;" class="cls-36" d="M611.076,187.411l1.419,2.326-.063.03-1.371.641a10,10,0,0,1-1.3.509,10.9,10.9,0,0,1-2.349.453c-.358-1.576-.784-3.118-1.275-4.608a9.039,9.039,0,0,0,.922-.173q-.8-1.126-1.661-2.171l-.14-.169-.056-.067c-2.124-5.358-4.974-9.275-8.043-11.047C602.334,176.125,607.276,181.2,611.076,187.411Z"/>
+          </g>
+        </g>
+        <g id="_Group_737" data-name="&lt;Group&gt;">
+          <path id="_Path_557" data-name="&lt;Path&gt;" class="cls-36" d="M587.121,207.165q.887,1.244,1.856,2.4l.005.013q-.967-1.155-1.867-2.414Z"/>
+        </g>
+        <g id="_Group_738" data-name="&lt;Group&gt;">
+          <path id="_Path_558" data-name="&lt;Path&gt;" class="cls-36" d="M589.07,174.872h0l-.083,0Z"/>
+        </g>
+        <g id="_Group_739" data-name="&lt;Group&gt;">
+          <path id="_Path_559" data-name="&lt;Path&gt;" class="cls-36" d="M590.086,183.109a16.253,16.253,0,0,1,1.229-3.125,30.479,30.479,0,0,0,4.034,3.386l-.012,4.1A36.468,36.468,0,0,1,590.086,183.109Z"/>
+        </g>
+      </g>
+      <g id="event-4" data-name="event">
+        <g id="_Group_740" data-name="&lt;Group&gt;">
+          <polygon id="_Path_560" data-name="&lt;Path&gt;" class="cls-36" points="655.175 322.928 639.713 352.673 683.818 327.209 668.238 315.386 661.725 325.657 655.175 322.928"/>
+        </g>
+        <g id="_Group_741" data-name="&lt;Group&gt;">
+          <polygon id="_Path_561" data-name="&lt;Path&gt;" class="cls-36" points="637.389 315.51 637.489 350.989 652.633 321.868 637.389 315.51"/>
+        </g>
+        <g id="_Group_742" data-name="&lt;Group&gt;">
+          <polygon id="_Path_562" data-name="&lt;Path&gt;" class="cls-36" points="685.925 287.487 670.766 311.399 686.025 322.974 685.925 287.487"/>
+        </g>
+        <g id="_Group_743" data-name="&lt;Group&gt;">
+          <polygon id="_Path_563" data-name="&lt;Path&gt;" class="cls-36" points="639.948 311.475 661.711 320.551 683.351 286.416 639.948 311.475"/>
+        </g>
+      </g>
+      <g id="event-5" data-name="event">
+        <g id="_Group_744" data-name="&lt;Group&gt;">
+          <path id="_Path_564" data-name="&lt;Path&gt;" class="cls-36" d="M317.092,98.394a6.535,6.535,0,0,0-2.966,5.144l.068,23.814c.005,1.893,1.338,2.659,2.985,1.708a6.548,6.548,0,0,0,2.972-5.147l-.067-23.814C320.078,98.206,318.739,97.443,317.092,98.394Z"/>
+        </g>
+        <g id="_Group_745" data-name="&lt;Group&gt;">
+          <path id="_Path_565" data-name="&lt;Path&gt;" class="cls-36" d="M307.565,112.705a6.546,6.546,0,0,0-2.972,5.14l.043,15.025c.005,1.893,1.344,2.656,2.991,1.7a6.548,6.548,0,0,0,2.972-5.148l-.043-15.025C310.551,112.517,309.213,111.754,307.565,112.705Z"/>
+        </g>
+        <g id="_Group_746" data-name="&lt;Group&gt;">
+          <path id="_Path_566" data-name="&lt;Path&gt;" class="cls-36" d="M298.029,125.729a6.546,6.546,0,0,0-2.965,5.144l.021,7.512c.005,1.893,1.344,2.656,2.985,1.708a6.548,6.548,0,0,0,2.972-5.148l-.021-7.512C301.015,125.541,299.676,124.778,298.029,125.729Z"/>
+        </g>
+      </g>
+      <g id="event-6" data-name="event">
+        <path id="_Compound_Path_2" data-name="&lt;Compound Path&gt;" class="cls-36" d="M183.838,254.793a5.36,5.36,0,0,1,1.955-2.168l21.37-12.338c1.418-.819,2.57-.162,2.574,1.467l.131,46.144a5.633,5.633,0,0,1-2.557,4.43L176.175,310.3c-1.418.819-2.569.162-2.574-1.467l-.093-32.877a4.99,4.99,0,0,1,.6-2.252Zm-3.031,43.19,23.3-13.454a2.817,2.817,0,0,0,1.279-2.215c0-.815-.578-1.143-1.287-.734l-23.3,13.454a2.816,2.816,0,0,0-1.279,2.215c0,.815.578,1.143,1.287.733m-.027-9.582,23.3-13.454a2.817,2.817,0,0,0,1.279-2.215c0-.815-.578-1.143-1.287-.733l-23.3,13.454a2.817,2.817,0,0,0-1.279,2.215c0,.815.578,1.143,1.287.733m-.027-9.582,23.3-13.454a2.816,2.816,0,0,0,1.279-2.215c0-.815-.578-1.143-1.287-.733l-23.3,13.454a2.817,2.817,0,0,0-1.279,2.215c0,.815.578,1.143,1.287.733M206,252.049c0-.815-.578-1.143-1.287-.734l-15.082,8.708a2.816,2.816,0,0,0-1.279,2.215c0,.824.578,1.153,1.287.743l15.082-8.708A2.819,2.819,0,0,0,206,252.049"/>
+      </g>
+      <g id="smartcity">
+        <g id="_Group_747" data-name="&lt;Group&gt;">
+          <polygon id="_Path_567" data-name="&lt;Path&gt;" class="cls-40" points="144.379 545.635 111.246 564.89 110.196 564.284 141.769 545.935 102.099 559.495 100.912 558.81 124.144 535.759 92.57 554.108 91.615 553.556 124.748 534.301 126.37 535.238 103.138 558.234 142.757 544.699 144.379 545.635"/>
+        </g>
+        <g id="_Group_748" data-name="&lt;Group&gt;">
+          <path id="_Compound_Path_3" data-name="&lt;Compound Path&gt;" class="cls-40" d="M157.62,553.226l-24.937,24.041-1.045-.6L137.5,571l-11.865-6.851-9.767,3.413-.951-.549,41.229-14.635Zm-30.854,10.48,11.482,6.629L155.633,553.5l-28.866,10.206"/>
+        </g>
+        <g id="_Group_749" data-name="&lt;Group&gt;">
+          <path id="_Path_568" data-name="&lt;Path&gt;" class="cls-40" d="M114.319,528c5.051,2.916,3.212,6.133-1.332,8.773l-.616.358-1.045-.6.662-.385c3.928-2.283,5.76-5.062,1.428-7.563-4.384-2.531-9.125-1.485-13.053.8-8.471,4.923,4.532,12.159-4.46,17.385-4.59,2.668-10.142,3.686-15.24.743-5.051-2.916-3.311-6.135,1.28-8.8l1.607-.934,1,.576-1.654.961c-4.022,2.337-5.618,5.089-1.235,7.621s9.126,1.594,13.147-.743c8.377-4.868-4.673-12.077,4.46-17.385C104.093,526,109.457,525.25,114.319,528Z"/>
+        </g>
+        <g id="_Group_750" data-name="&lt;Group&gt;">
+          <polygon id="_Path_569" data-name="&lt;Path&gt;" class="cls-40" points="290.344 629.908 285.613 632.658 280.136 629.496 251.734 646.002 246.495 642.976 274.897 626.471 269.415 623.306 274.147 620.557 290.344 629.908"/>
+        </g>
+        <g id="_Group_751" data-name="&lt;Group&gt;">
+          <path id="_Compound_Path_4" data-name="&lt;Compound Path&gt;" class="cls-40" d="M153.768,584.885c-1.278.743-2.748,1.761-3.029,2.807l-1.14-.658c.376-.991,1.7-1.928,3.119-2.755l5.206-3.025c4.872-2.832,3.2-5.278-1.137-7.782l-4.1-2.365L137.4,579.992l-1.05-.606,33.133-19.255,6.621,3.822c4.956,2.861,3.977,5.638-.566,8.279l-2.983,1.734a13.031,13.031,0,0,1-12.246.991c3.149,2.476,2.3,4.786-1.338,6.9Zm-.081-14.357,4.1,2.365c4.62,2.668,8.472,3.519,13.583.549l3.026-1.758c4.027-2.34,4.965-4.7.676-7.181l-5.524-3.189-15.857,9.215"/>
+        </g>
+        <g id="_Group_752" data-name="&lt;Group&gt;">
+          <polygon id="_Path_570" data-name="&lt;Path&gt;" class="cls-40" points="202.169 579.001 201.178 579.577 193.89 575.369 161.748 594.048 160.698 593.442 192.84 574.763 185.6 570.583 186.591 570.007 202.169 579.001"/>
+        </g>
+        <g id="_Group_753" data-name="&lt;Group&gt;">
+          <path id="_Path_571" data-name="&lt;Path&gt;" class="cls-40" d="M255.994,609.635c5.145,2.971,4.787,6.274-.513,9.354l-3.218,1.87L247.306,618l3.547-2.061c2.368-1.376,2.22-2.507.556-3.468s-3.621-1.046-5.989.33l-17.892,10.4c-2.363,1.373-2.169,2.477-.5,3.44s3.57,1.07,5.933-.3l4.736-2.752,4.956,2.861-4.4,2.558c-5.3,3.08-11,3.3-16.148.328s-4.782-6.272.518-9.352l17.229-10.013C245.151,606.886,250.848,606.665,255.994,609.635Z"/>
+        </g>
+        <g id="_Group_754" data-name="&lt;Group&gt;">
+          <polygon id="_Path_572" data-name="&lt;Path&gt;" class="cls-40" points="271.863 619.238 238.729 638.493 233.489 635.468 266.623 616.213 271.863 619.238"/>
+        </g>
+        <g id="_Group_755" data-name="&lt;Group&gt;">
+          <polygon id="_Path_573" data-name="&lt;Path&gt;" class="cls-40" points="309.403 640.912 280.634 649.96 269.649 656.344 264.409 653.319 275.394 646.935 290.916 630.239 296.398 633.403 285.302 644.486 304.399 638.023 309.403 640.912"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
